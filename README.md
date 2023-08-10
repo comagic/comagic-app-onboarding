@@ -92,7 +92,7 @@ alt="test"
 
 ```
 <Link 
-to="https://raw.githubusercontent.com/Scadar/onboarding_md/main/ru/comagic/analytics/summary_analytics.txt"
+to="https://raw.githubusercontent.com/comagic/comagic-app-onboarding/main/ru/comagic/analytics/summary_analytics.txt"
 isFullPath
 >
 Текст ссылки
@@ -119,23 +119,22 @@ isFullPath
 
 ###### Примеры паттернов:
 
-| Паттерн                                             | Пример значения                 |
-|-----------------------------------------------------|---------------------------------|
-| `'/user/:id'`                                       | `'/user/123'`                   |
-| `'/route/:param?'`                                  | `'/route'`                      |
-| `'/route/:param?'`                                  | `'/route/456'`                  |
-| `'/product/:name/details'`                          | `'/product/TV/details'`         |
-| `'/file/:name.:ext'`                                | `'/file/test.jpg'`              |
-| `'/animals/:type(birds\|fish)'`                     | `'/animals/birds'`              |
-| `'/route/:param+'`                                  | `'/route/1/2/3'`                |
-| `'/assets/(.*)'`                                    | `'/assets/js/script.js'`        |
-| `'/locations/:country/:city'`                       | `'/locations/australia/sydney'` |
-| `'/book/:title(P\\w+)'`                             | `'/book/P123'`                  |
-| `'/user/:id/edit'`                                  | `'/user/159/edit'`              |
-| `'/post/:year(\\d{4})/:month(\\d{2})/:day(\\d{2})'` | `'/post/2022/12/31'`            |
-| `'/service/:action(view\|edit)'`                    | `'/service/edit'`               |
-| `'/route/:param*'`                                  | `'/route/one/two/three'`        |
-| `'/color/:choice(red\|blue\|yellow)'`               | `'/color/blue'`                 |
+| Паттерн                                             | Пример значения                 | Описание                                                                               |
+|-----------------------------------------------------|---------------------------------|----------------------------------------------------------------------------------------|
+| `'/user/:id'`                                       | `'/user/123'`                   | Сопоставляет URL, где `:id` представляет любое значение                                |
+| `'/route/:param?'`                                  | `'/route'`                      | Сопоставляет URL без значения `:param` или с его значением                             |
+| `'/route/:param?'`                                  | `'/route/456'`                  | Сопоставляет URL с определенным значением `:param`                                     |
+| `'/product/:name/details'`                          | `'/product/TV/details'`         | Сопоставляет URL, в котором `:name` представляет имя продукта                          |
+| `'/file/:name.:ext'`                                | `'/file/test.jpg'`              | Сопоставляет URL, в котором `:name` - это имя файла, а `:ext` - это его расширение     |
+| `'/animals/:type(birds\|fish)'`                     | `'/animals/birds'`              | Сопоставляет URL, где тип животного ограничивается значениями 'birds' или 'fish'       |
+| `'/route/:param+'`                                  | `'/route/1/2/3'`                | Сопоставляет URL, где `:param` может представлять несколько значений                   |
+| `'/assets/(.*)'`                                    | `'/assets/js/script.js'`        | Сопоставляет URL, где за 'assets/' следуют любые символы                               |
+| `'/locations/:country/:city'`                       | `'/locations/australia/sydney'` | Сопоставляет URL, где `:country` и `:city` представляют страну и город                 |
+| `'/book/:title(P\\w+)'`                             | `'/book/P123'`                  | Сопоставляет URL, где `:title` представляет заголовок книги, начинающейся с 'P'        |
+| `'/user/:id/edit'`                                  | `'/user/159/edit'`              | Сопоставляет URL, который ведет к редактированию пользователя с определенным `:id`     |
+| `'/post/:year(\\d{4})/:month(\\d{2})/:day(\\d{2})'` | `'/post/2022/12/31'`            | Сопоставляет URL, в котором `:year`, `:month` и `:day` представляют дату публикации    |
+| `'/service/:action(view\|edit)'`                    | `'/service/edit'`               | Сопоставляет URL, где действие службы ограничивается значениями 'view' или 'edit'      |
+| `'/route/:param*'`                                  | `'/route/one/two/three'`        | Сопоставляет URL, где `:param` может представлять несколько значений или отсутствовать |
 
 #### conditions
 
