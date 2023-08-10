@@ -167,6 +167,14 @@ type DataStructure = {
 
 ```
 "conditions": {
+    "parameter": "lang",
+    "operator": "=",
+    "value": "ru"
+}
+```
+
+```
+"conditions": {
     "and": [
       {
         "parameter": "app_id",
