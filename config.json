@@ -27,6 +27,11 @@
     {
       "pattern": "/call_tracking/rules/:id#step2_static_external_area",
       "filePath": "/call-tracking/rules/step2_static_external_area.txt"
+    },
+    {
+      "id": "Arty-test_1",
+      "pattern": "/visits/379975",
+      "filePath": "/Arty-test/main.txt"
     }
   ]
 }
