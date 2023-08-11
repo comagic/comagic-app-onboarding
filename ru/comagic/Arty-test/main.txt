@@ -4,4 +4,6 @@
 <Text>Не беда - выпейте кофе. Съешьте Успокоительного. Посмотрите котиков</Text>
 <Image src="https://vgif.ru/gifs/156/vgif-ru-27253.gif"/>
 <Text>А вот и котики</Text>
-<YoutubeIframeVideo src="https://www.youtube.com/embed/4AfnMOO5LxM"></YoutubeIframeVideo>
+<YoutubeIframeVideo src="https://www.youtube.com/embed/nVQ-Q4maz1s">
+<Image src="https://github.com/Scadar/onboarding_md/blob/main/static/call-tracking-pkt-img3.png?raw=true" />
+</YoutubeIframeVideo>
