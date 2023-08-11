@@ -21,26 +21,6 @@
 
 `<Container backgroundColor="#ccc">Текст внутри серого конейнера</Container>`
 
-#### Image
-
-| Props  | Default value | Description                                 |
-|--------|---------------|---------------------------------------------|
-| src    | undefined     | Ссылка на картинку или гиф                  |
-| alt    | undefined     | Текст в случае, если картинка не загрузится |
-| height | 180           | Высота картинки                             |
-| width  | 100%          | Ширина картинки                             |
-
-```
-<Image
-src="https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg?cs=srgb&dl=pexels-pixabay-268533.jpg&fm=jpg"
-width="372"
-height="196"
-alt="test"
-/>
-
-<Image src="https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg?cs=srgb&dl=pexels-pixabay-268533.jpg&fm=jpg" />
-```
-
 #### YoutubeIframeVideo
 
 | Props    | Default value | Description                        |
@@ -52,33 +32,9 @@ alt="test"
 
 ```
 <YoutubeIframeVideo src="https://www.youtube.com/embed/nVQ-Q4maz1s">
-<Image src="https://images.unsplash.com/photo-1481349518771-20055b2a7b24"/>
+<img src="https://images.unsplash.com/photo-1481349518771-20055b2a7b24" alt="" width="100%" height="180px"/>
 </YoutubeIframeVideo>
 ```
-
-#### Title
-
-| Props    | Default value | Description             |
-|----------|---------------|-------------------------|
-| children | undefined     | Стилизованный заголовок |
-
-`<Title>Мой текст</Title>`
-
-#### SubTitle
-
-| Props    | Default value | Description                |
-|----------|---------------|----------------------------|
-| children | undefined     | Стилизованный подзаголовок |
-
-`<SubTitle>Мой текст</SubTitle>`
-
-#### Text
-
-| Props    | Default value | Description         |
-|----------|---------------|---------------------|
-| children | undefined     | Стилизованный текст |
-
-`<Text>Мой текст</Text>`
 
 #### Link
 
