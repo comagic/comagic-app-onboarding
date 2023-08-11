@@ -2,6 +2,6 @@
 <SubTitle>Вот такой вот отчет.</SubTitle>
 <Space 16 />
 <Text>Не беда - выпейте кофе. Съешьте Успокоительного. Посмотрите котиков</Text>
-<Image src="https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg?cs=srgb&dl=pexels-pixabay-268533.jpg&fm=jpg"/>
+<Image src="https://vgif.ru/gifs/156/vgif-ru-27253.gif"/>
 <Text>А вот и котики</Text>
 <YoutubeIframeVideo src="https://www.youtube.com/embed/4AfnMOO5LxM"></YoutubeIframeVideo>
