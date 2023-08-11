@@ -2,36 +2,36 @@
   "routes": [
     {
       "pattern": "/sites/:id",
-      "filePath": "/sites/main.txt"
+      "filePath": "/sites/main.md"
     },
     {
       "pattern": "/call_tracking/replacement-phone-blocks/:id",
-      "filePath": "/call-tracking/replacement-phone-blocks/main.txt"
+      "filePath": "/call-tracking/replacement-phone-blocks/main.md"
     },
     {
       "pattern": "/call_tracking/rules/:id#step1",
-      "filePath": "/call-tracking/rules/step1.txt"
+      "filePath": "/call-tracking/rules/step1.md"
     },
     {
       "pattern": "/call_tracking/rules/:id#step2_dynamic",
-      "filePath": "/call-tracking/rules/step2_dynamic.txt"
+      "filePath": "/call-tracking/rules/step2_dynamic.md"
     },
     {
       "pattern": "/call_tracking/rules/:id#step3_dynamic",
-      "filePath": "/call-tracking/rules/step3_dynamic.txt"
+      "filePath": "/call-tracking/rules/step3_dynamic.md"
     },
     {
       "pattern": "/call_tracking/rules/:id#step2_static_site_calls",
-      "filePath": "/call-tracking/rules/step2_static_site_calls.txt"
+      "filePath": "/call-tracking/rules/step2_static_site_calls.md"
     },
     {
       "pattern": "/call_tracking/rules/:id#step2_static_external_area",
-      "filePath": "/call-tracking/rules/step2_static_external_area.txt"
+      "filePath": "/call-tracking/rules/step2_static_external_area.md"
     },
     {
       "id": "Arty-test_1",
       "pattern": "/visits/379975",
-      "filePath": "/Arty-test/main.txt"
+      "filePath": "/Arty-test/main.md"
     }
   ]
 }
