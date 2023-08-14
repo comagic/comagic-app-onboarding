@@ -6,7 +6,7 @@
 
 `<br>`
 
-#### Container
+#### Alert
 
 | Props           | Default value | Description                      |
 |-----------------|---------------|----------------------------------|
@@ -15,26 +15,29 @@
 | padding         | 16            | Внутренний отступ контейнера     |
 | children        | undefined     | Внутреннее содержимое контейнера |
 
-`<Container>Текст внутри конейнера</Container>`
+`<Alert>Текст внутри конейнера</Alert>`
 
-`<Container backgroundColor="#ccc">Текст внутри серого конейнера</Container>`
+`<Alert backgroundColor="#ccc">Текст внутри серого конейнера</Alert>`
 
-#### YoutubeIframeVideo
+#### IframeVideo
 
-| Props    | Default value | Description                        |
-|----------|---------------|------------------------------------|
-| src      | undefined     | Ссылка на ютуб видео               |
-| height   | 180           | Высота картинки                    |
-| width    | 100%          | Ширина картинки                    |
-| children | undefined     | Использовать компонент `<Image />` |
+| Props           | Default value                                                                                         | Description                                                                                            |
+|-----------------|-------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| src             | undefined                                                                                             | Ссылка на ютуб видео                                                                                   |
+| height          | 180                                                                                                   | Высота картинки                                                                                        |
+| width           | 100%                                                                                                  | Ширина картинки                                                                                        |
+| allow           | 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' | Specifies a [Permissions Policy](https://developer.mozilla.org/en-US/docs/Web/HTTP/Permissions_Policy) |
+| autoplay        | 1                                                                                                     | Включить или выключить авто воспроизведение                                                            |
+| allowFullScreen | true                                                                                                  | Разрешить раскрывать на полный экран                                                                   |
+| children        | undefined                                                                                             | Использовать компонент `<img />`                                                                       |
 
 ```
-<YoutubeIframeVideo src="https://www.youtube.com/embed/nVQ-Q4maz1s">
+<IframeVideo src="https://www.youtube.com/embed/nVQ-Q4maz1s">
 <img src="https://images.unsplash.com/photo-1481349518771-20055b2a7b24" alt="" width="100%" height="180px"/>
-</YoutubeIframeVideo>
+</IframeVideo>
 ```
 
-#### Link
+#### OnboardingLink
 
 | Props      | Default value | Description                                                        |
 |------------|---------------|--------------------------------------------------------------------|
@@ -42,15 +45,15 @@
 | isFullPath | false         | Если true, то в ссылку to нужно вставлять полноценный путь на файл |
 | children   | undefined     | Стилизованный текст                                                |
 
-`<Link to="/calltracking/step1.txt">Текст ссылки</Link>`
+`<OnboardingLink to="/calltracking/step1.txt">Текст ссылки</OnboardingLink>`
 
 ```
-<Link 
+<OnboardingLink 
 to="https://raw.githubusercontent.com/comagic/comagic-app-onboarding/main/ru/comagic/analytics/summary_analytics.txt"
 isFullPath
 >
 Текст ссылки
-</Link>
+</OnboardingLink>
 ```
 
 ## Config
