@@ -11,7 +11,7 @@
 
 <br>
 <br>
-<Alert>Если вы используете Google Tag Manager, код можно установить с его помощью. <OnboardingLink to="/sites/gtm.txt">Открыть инструкцию</OnboardingLink></Alert>
+<Alert>Если вы используете Google Tag Manager, код можно установить с его помощью. <OnboardingLink to="/sites/gtm.md">Открыть инструкцию</OnboardingLink></Alert>
 <br>
 <br>
 Сервис использует единый код счетчика. Если у вас несколько сайтов, вставьте код сразу на всех, а затем добавьте сайты в личном кабинете.

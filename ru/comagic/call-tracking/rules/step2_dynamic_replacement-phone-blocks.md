@@ -44,4 +44,4 @@
 Здесь можно задать дополнительные условия внутри блока. Это полезно, если сайт использует разные номера, и вы хотите заменить их, не изменяя атрибуты.
 
 <br>
-<OnboardingLink to="/call-tracking/rules/step2_dynamic.txt">Вернуться к основному руководству</OnboardingLink>
+<OnboardingLink to="/call-tracking/rules/step2_dynamic.md">Вернуться к основному руководству</OnboardingLink>

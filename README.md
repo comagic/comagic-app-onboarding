@@ -45,11 +45,11 @@
 | isFullPath | false         | Если true, то в ссылку to нужно вставлять полноценный путь на файл |
 | children   | undefined     | Стилизованный текст                                                |
 
-`<OnboardingLink to="/calltracking/step1.txt">Текст ссылки</OnboardingLink>`
+`<OnboardingLink to="/calltracking/step1.md">Текст ссылки</OnboardingLink>`
 
 ```
 <OnboardingLink 
-to="https://raw.githubusercontent.com/comagic/comagic-app-onboarding/main/ru/comagic/analytics/summary_analytics.txt"
+to="https://raw.githubusercontent.com/comagic/comagic-app-onboarding/main/ru/comagic/analytics/summary_analytics.md"
 isFullPath
 >
 Текст ссылки

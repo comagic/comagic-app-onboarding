@@ -26,4 +26,4 @@
 - В условии активации укажите триггер «Просмотр страницы», настроенный на страницы по регулярному выражению: .\*site.ru\\/example\\/.*
 
 <br>
-<OnboardingLink to="/sites/main.txt">Вернуться к основному руководству</OnboardingLink>
+<OnboardingLink to="/sites/main.md">Вернуться к основному руководству</OnboardingLink>

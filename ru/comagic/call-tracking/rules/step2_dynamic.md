@@ -20,7 +20,7 @@
 <Alert>
 Если блок еще не создан, создайте новый, выберите сайт и введите номер, который будет автоматически найден и заменен на номера коллтрекинга.
 <br>
-<OnboardingLink to="/call-tracking/rules/step2_dynamic_replacement-phone-blocks.txt">Инструкция по созданию блока подмены</OnboardingLink>
+<OnboardingLink to="/call-tracking/rules/step2_dynamic_replacement-phone-blocks.md">Инструкция по созданию блока подмены</OnboardingLink>
 </Alert>
 <br>
 <br>
