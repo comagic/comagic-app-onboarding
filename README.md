@@ -129,7 +129,7 @@ type DataStructure = {
     {
       "id": "Test_1",
       "pattern": "/call_tracking/rules/:id#step2_static_external_area",
-      "filePath": "/call-tracking/rules/step2_static_external_area.md"
+      "filePath": "/call-tracking/rules/step2_static_external_area.md",
       "conditions": {
         "parameter": "user_id",
         "operator": "=",
