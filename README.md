@@ -1,5 +1,8 @@
 ## Стандартные компоненты
 
+#### Markdown
+Все возможности с примерами тут https://www.markdownguide.org/basic-syntax/
+
 #### br
 
 Отступ в 8px
@@ -183,6 +186,8 @@ type DataStructure = {
 - Открыть Editor `rootStore.onboardingStore.setShowEditor(true)`
     - 1ый параметр true или false для открытия или закрытия
 - Установить ветку, в которую будут идти запросы `rootStore.onboardingStore.setBranchName('branchName')`
-    - 1ый параметр название ветки 
-
+    - 1ый параметр название ветки
+ 
+## Обновление 
+- Изменения применяются после 5 минут
 
