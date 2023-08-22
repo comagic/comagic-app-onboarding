@@ -126,11 +126,16 @@ type DataStructure = {
 ###### Пример использования
 
 ```
-"conditions": {
-    "parameter": "lang",
-    "operator": "=",
-    "value": "ru"
-}
+    {
+      "id": "Test_1",
+      "pattern": "/call_tracking/rules/:id#step2_static_external_area",
+      "filePath": "/call-tracking/rules/step2_static_external_area.md"
+      "conditions": {
+        "parameter": "user_id",
+        "operator": "=",
+        "value": 2870
+      }
+    }
 ```
 
 ```
