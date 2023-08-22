@@ -30,8 +30,13 @@
     },
     {
       "id": "Arty-test_1",
-      "pattern": "/visits/385275",
-      "filePath": "/Arty-test/main.md"
+      "pattern": "/marketplace/custom/metrika",
+      "filePath": "/Arty-test/main.md",
+      "conditions": {
+        "parameter": "user_id",
+        "operator": "=",
+        "value": 2870
+      }
     }
   ]
 }
