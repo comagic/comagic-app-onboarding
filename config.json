@@ -27,16 +27,6 @@
     {
       "pattern": "/call_tracking/rules/:id#step2_static_external_area",
       "filePath": "/call-tracking/rules/step2_static_external_area.md"
-    },
-    {
-      "id": "Arty-test_1",
-      "pattern": "/marketplace/custom/metrika",
-      "filePath": "/Arty-test/main.md",
-      "conditions": {
-        "parameter": "user_id",
-        "operator": "=",
-        "value": 2870
-      }
     }
   ]
 }
