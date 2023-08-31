@@ -27,6 +27,10 @@
     {
       "pattern": "/call_tracking/rules/:id#step2_static_external_area",
       "filePath": "/call-tracking/rules/step2_static_external_area.md"
+    },
+    {
+      "pattern": "/summary_analytics/299743",
+      "filePath": "/ad_analytic/report/trafic_analyze.txt"
     }
   ]
 }
