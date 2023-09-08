@@ -33,7 +33,7 @@
       "filePath": "/ad_analytic/report/trafic_analyze.md"
     },
     {
-      "pattern": "/summary_analytics/:id#group_id=6&name=Мультиканальная%20атрибуция%20рекламы",
+      "pattern": "/summary_analytics/:id#group_id=6&name=Мультиканальная атрибуция рекламы",
       "filePath": "/ad_analytic/report/trafic_analyze.md"
     }
   ]
