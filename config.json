@@ -31,6 +31,10 @@
     {
       "pattern": "/summary_analytics/299743",
       "filePath": "/ad_analytic/report/trafic_analyze.md"
+    },
+    {
+      "id": "Test_amo",
+      "filePath": "/marketplace/amoCRM (мультивиджет)/Readme.md"
     }
   ]
 }
