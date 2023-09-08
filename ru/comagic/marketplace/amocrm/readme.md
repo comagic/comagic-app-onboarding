@@ -22,7 +22,7 @@
 2. Из поля "Webhook url" забираем адрес для настройки Webhook в amoCRM на событие "Беседа изменена"
 Настройка хука в amoCRM:
 <img src="https://github.com/comagic/comagic-app-onboarding/blob/marketplace/ru/comagic/marketplace/amocrm/amo_hook.gif?raw=true" alt="" width="100%" height="180px"/>
-![image](амо хук.gif)
+
 3. Для авторизации в amoCRM требуется:
 - создать приложение в amoCRM
   - в ссылку для перенаправления указываем URL https://uc-http-requester-prod-api.comagic.ru/oauth2/callback
@@ -42,6 +42,7 @@
 6. В разделе "Соответствие мессенджеров и источников" настраиваем в какую РК\Источник будут попадать чаты из мессенджеров.
 
 <img src="https://github.com/comagic/comagic-app-onboarding/blob/marketplace/ru/comagic/marketplace/amocrm/pc_source.gif?raw=true" alt="" width="100%" height="180px"/>
+
 7. Сохраняем настройки.
 8. После сохранения настроек будет выведено новое поле  "Скрипт для вашего сайта".
 Из него забираем скрипт и устанавливаем на каждой странице ниже основного кода вставки нашего сервиса
