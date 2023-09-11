@@ -23,6 +23,7 @@
 Настройка хука в amoCRM:
 
 <img src="https://github.com/comagic/comagic-app-onboarding/blob/marketplace/ru/comagic/marketplace/amocrm/images/amo_hook.gif?raw=true" alt="" width="100%" height="180px"/>
+![image](images/amo_hook.gif)
 
 3. Для авторизации в amoCRM требуется:
 - создать приложение в amoCRM
