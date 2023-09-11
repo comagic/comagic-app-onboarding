@@ -36,6 +36,11 @@
       "id": "Test_amo",
       "pattern": "",
       "filePath": "/marketplace/amocrm/readme.md"
+    },
+    {
+      "id": "bukza",
+      "pattern": "",
+      "filePath": "/marketplace/bukza/readme.md"
     }
   ]
 }
