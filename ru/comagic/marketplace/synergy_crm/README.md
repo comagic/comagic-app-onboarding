@@ -45,7 +45,7 @@ a. Получаем ключ  АПИ в SYNERGY CRM  : Настройки -> API
 
 b. Скопированный ключ вставляем в настройки интеграции в CoMagic/UIS 
 
-![image](synergy key.gif)
+![image](synergy_key.gif)
 
 4. Нажмите сохранить.
 
