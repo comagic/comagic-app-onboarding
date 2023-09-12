@@ -33,11 +33,11 @@
       "filePath": "/ad_analytic/report/trafic_analyze.md"
     },
     {
-      "pattern": "/summary_analytics/:id#(.*)name=Анализ трафика",
+      "pattern": "/summary_analytics/:id#group_id=6&name=Анализ трафика",
       "filePath": "/ad_analytic/report/trafic_analyze.md"
     },
     {
-      "pattern": "/summary_analytics/:id#(.*)name=Воронка маркетинга и продаж",
+      "pattern": "/summary_analytics/:id#group_id=6&name=Воронка маркетинга и продаж",
       "filePath": "/ad_analytic/report/marketing_and_sales_funnel.md"
     }
   ]
