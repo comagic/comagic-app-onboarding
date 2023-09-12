@@ -31,16 +31,6 @@
     {
       "pattern": "/summary_analytics/299743",
       "filePath": "/ad_analytic/report/trafic_analyze.md"
-    },
-    {
-      "id": "Test_amo",
-      "pattern": "",
-      "filePath": "/marketplace/amocrm/readme.md"
-    },
-    {
-      "id": "bukza",
-      "pattern": "",
-      "filePath": "/marketplace/bukza/readme.md"
     }
   ]
 }
