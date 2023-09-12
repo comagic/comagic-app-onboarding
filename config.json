@@ -39,6 +39,18 @@
     {
       "pattern": "/summary_analytics/:id#group_id=6&name=Воронка маркетинга и продаж",
       "filePath": "/ad_analytic/report/marketing_and_sales_funnel.md"
+    },
+    {
+      "pattern": "/summary_analytics/:id#group_id=6&name=Анализ платной рекламы Яндекс Директ",
+      "filePath": "/ad_analytic/report/ad_yandex_direct.md"
+    },
+    {
+      "pattern": "/summary_analytics/:id#group_id=6&name=Анализ поведения и аудитории",
+      "filePath": "/ad_analytic/report/analyze_auditory.md"
+    },
+    {
+      "pattern": "/summary_analytics/:id#group_id=6&name=Анализ платной рекламы VK Реклама",
+      "filePath": "/ad_analytic/report/ad_yandex_vk_new.md"
     }
   ]
 }
