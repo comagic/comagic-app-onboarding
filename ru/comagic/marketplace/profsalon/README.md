@@ -28,7 +28,7 @@
 - Загрузка оффлайн-заявок из внешней системы в нашем сервисе 
  
 <details>
-  <summary style="font-weight:bold;">  Шаги по подключению 4 </summary> <br /> 
+  <summary style="font-weight:bold;">  Шаги по подключению 5 </summary> <br /> 
 
 
 1. Нажмите "Активен" на этой странице.
