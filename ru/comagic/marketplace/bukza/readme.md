@@ -19,7 +19,8 @@
 1. Нажмите "Активен" на этой странице.
 2. Заполните поля в настройках. <br />
 
-- **Настройка Webhook**
+- **Настройка Webhook**  <br />
+
  <details>
   <summary style="font-weight:bold;"> подробнее </summary>  <br />
 
@@ -47,6 +48,7 @@
 	  - Сохраняем 
 	
 	![image](bukza_hook.gif)
+ 
 </details>  
 
 <br />
