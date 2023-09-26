@@ -25,9 +25,9 @@
 	- Шаблоны и интеграции → Веб-запросы → Создать веб-запрос
 	  - Указываем название
 	  - В URL указываем Webhook url из настроек интеграции
-	  - Проставляем галочку POST запрос и в тело добавляем следующий json
+	  - Проставляем галочку POST запрос и в тело добавляем следующий json  <br />
    
-	```  
+	<Alert backgroundColor="#ccc">
 	{  
 	"date_time": "[bukza_created_date]",  
 	"name": "[bukza_full_name]",  
@@ -35,8 +35,9 @@
 	"email": "[bukza_email]",  
 	"message": "Номер заказа: [bukza_order_id]; Код бронирования: [bukza_code]",  
 	"visitor_session_id": "[bukza_n2]"  
-	}  
-	```
+	} 
+ 
+	</Alert>   <br />
  
 	  - Сохраняем 
 	
