@@ -29,7 +29,7 @@
 	  - В URL указываем Webhook url из настроек интеграции
 	  - Проставляем галочку POST запрос и в тело добавляем следующий json  <br />
    
-	<Alert backgroundColor="#80edbc">
+	<Alert backgroundColor="#c3e8d7">
 	{  
 	"date_time": "[bukza_created_date]",  
 	"name": "[bukza_full_name]",  
