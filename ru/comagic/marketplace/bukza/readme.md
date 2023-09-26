@@ -19,16 +19,17 @@
 1. Нажмите "Активен" на этой странице.
 2. Заполните поля в настройках. <br />
 
-- **Настройка Webhook**
- <details>
-  <summary style="font-weight:bold;"> Подробнее </summary>  <br />
+- **Настройка Webhook** <br />
+
+<details>
+ <summary style="font-weight:bold;"> Подробнее </summary>  <br />
 
 	- Шаблоны и интеграции → Веб-запросы → Создать веб-запрос
 	  - Указываем название
 	  - В URL указываем Webhook url из настроек интеграции
 	  - Проставляем галочку POST запрос и в тело добавляем следующий json  <br />
    
-	<Alert backgroundColor="#d6d2d2">
+	<Alert backgroundColor="#80edbc">
 	{  
 	"date_time": "[bukza_created_date]",  
 	"name": "[bukza_full_name]",  
