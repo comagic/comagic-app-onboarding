@@ -25,13 +25,16 @@
 1. Нажмите "Активен" на этой странице.
 2. Заполните настройки интеграции <br />
 
+- **Настройте Webhook в Jivosite**<br />
+  
 <details>
-  <summary style="font-weight:bold;"> Настройте Webhook в Jivosite </summary> <br />
+  <summary style="font-weight:bold;"> Подробнее </summary> <br />
 В Jivosite необходимо настроить Webhook на "Webhook url" сервиса CoMagic/UIS из настроек.<br />  
 a. Заходим в  Jivosite в раздел Управление -> Каналы связи , выбираем нужные сайт/мессенджер и нажимаем настроить.<br />  
 b. Далее в настройках заходим в раздел "Настройки интеграции для разработчиков".<br /> 
 c. Нажимаем "Включить Webhooks" и в поле "URL для Webhooks" добавляем наш "Webhook url".
 ![image](jivo_hook.gif)  
+  
 </details> 
 <br />
 
