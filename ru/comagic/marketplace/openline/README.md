@@ -26,6 +26,7 @@
 2. Заполните настройки интеграции <br />
 
 - **Настройте Webhook в Битрикс24**
+  
 <details>
   <summary style="font-weight:bold;"> Подробнее </summary> <br /> 
  
@@ -36,6 +37,7 @@
 <br />
 
 - **Авторизация**
+  
 <details>
   <summary style="font-weight:bold;"> Подробнее </summary> <br /> 
  
