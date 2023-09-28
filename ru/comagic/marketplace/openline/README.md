@@ -25,7 +25,7 @@
 1. Нажмите "Активен" на этой странице.
 2. Заполните настройки интеграции <br />
 
-- **Настройте Webhook в Битрикс24**
+- **Настройте Webhook в Битрикс24**<br /> 
   
 <details>
   <summary style="font-weight:bold;"> Подробнее </summary> <br /> 
@@ -36,7 +36,7 @@
 </details> 
 <br />
 
-- **Авторизация**
+- **Авторизация**<br /> 
   
 <details>
   <summary style="font-weight:bold;"> Подробнее </summary> <br /> 
