@@ -32,11 +32,11 @@
 <details>
  <summary style="font-weight:bold;"> Подробнее </summary>  <br />
   
- Создайте триггер в EnvyCRM на Webhook url сервиса CoMagic/UIS из настроек.   
-
+ Создайте триггер в EnvyCRM на Webhook url сервиса CoMagic/UIS из настроек:
 - Настройки -> Интеграция -> Webhook
-
-- Выбираем события "Создание сделки" и "Изменение этапа сделки"
+- В поле "Webhook уведомления" укажите Webhook url из настроек интеграции
+- Выберете события "Создание сделки" и "Изменение этапа сделки"
+  
 
 ![image](envy_webhook.gif)
 
