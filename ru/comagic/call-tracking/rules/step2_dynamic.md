@@ -24,6 +24,7 @@
 <br>
 
 <OnboardingLink to="/call-tracking/rules/step2_dynamic_replacement-phone-blocks.md">Инструкция по созданию блока подмены</OnboardingLink>
+
 </Alert>
 <br>
 <br>
