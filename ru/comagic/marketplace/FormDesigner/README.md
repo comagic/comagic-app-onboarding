@@ -26,7 +26,7 @@
 1. Нажмите "Активен" на этой странице. <br />
 2. Выполните настройку интеграции. <br />
 
-- **Добавьте поле "visitor_session_id" в форму** <br />
+- Добавьте поле "visitor_session_id" в форму <br />
 
 <details>
   <summary style="font-weight:bold;"> Подробнее </summary> <br />
@@ -40,7 +40,7 @@
 </details> 
 <br />
   
-- **Настройте Webhook в FormDesigner** <br />
+- Настройте Webhook в FormDesigner <br />
 
 <details>
   <summary style="font-weight:bold;"> Подробнее </summary> <br />
@@ -50,22 +50,21 @@
   - Найдите модуль Weebhooks  и добавьте его.
   - В поле "URL адрес" добавьте Webhook URL из настроек интеграции.
   - В поле "Метод передачи данных" выберете метод POST.
-  - В "Параметры запроса из формы" необходимо указать следующие значения (во 2 столбце названия могут отличать, если вы их изменяли в форме):
-        - name / Ваше имя
-        - phone / Телефон
-        - email / E-mail
-        - ext_id / ID заявки
-        - date_time / Дата создания заявки
-        - form_name / Название формы
-        - visitor_session_id / visitor_session_id
+  - В "Параметры запроса из формы" необходимо указать следующие значения (во 2 столбце названия могут отличать, если вы их изменяли в форме): <br />
+        - name / Ваше имя;
+        - phone / Телефон;
+        - email / E-mail;
+        - ext_id / ID заявки;
+        - date_time / Дата создания заявки;
+        - form_name / Название формы;
+        - visitor_session_id / visitor_session_id.
   - В "Дополнительные параметры" в поле "Content-Type" выберете application/json.
 
-![image](FormDesigner.gif)
 
 </details> 
 <br />
 
-- **Установите скрипты на формы FormDesigner**
+- Установите скрипты на формы FormDesigner
 прописать
 
 <br />
