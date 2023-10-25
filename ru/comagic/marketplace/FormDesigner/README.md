@@ -26,7 +26,7 @@
 1. Нажмите "Активен" на этой странице. <br />
 2. Выполните настройку интеграции. <br />
 
-- Добавьте поле "visitor_session_id" в форму <br />
+- **Добавьте поле "visitor_session_id" в форму** <br />
 
 <details>
   <summary style="font-weight:bold;"> Подробнее </summary> <br />
@@ -37,10 +37,13 @@
   - В названии укажите **visitor_session_id**.
   - В "Расширенные параметры" в параметре "Название макроса" также укажите **visitor_session_id**.
 
+    ![image](verbox_chat.gif)
+
 </details> 
 <br />
+<br />
   
-- Настройте Webhook в FormDesigner <br />
+- **Настройте Webhook в FormDesigner** <br />
 
 <details>
   <summary style="font-weight:bold;"> Подробнее </summary> <br />
@@ -61,13 +64,24 @@
     - visitor_session_id / visitor_session_id.
     
   - В "Дополнительные параметры" в поле "Content-Type" выберете application/json.
-
+    
+![image](verbox_chat.gif)
 
 </details> 
 <br />
+<br />
 
-- Установите скрипты на формы FormDesigner
-прописать
+- **Установите скрипты на формы FormDesigner**
+  
+  - Необходимо понять какой вид формы используется на сайте (могут использовать сразу оба типа).
+  - В зависимости от типа формы корректируется скрипт в соответствии с описанием в интеграции.
+  - Пример как должен выглядить скрипт после изменений стандартной формы
+    
+![image](verbox_chat.gif)
+
+  - Пример как должен выглядить скрипт после изменений формы "Всплывающее окно"
+    
+![image](verbox_chat.gif)
 
 <br />
 
