@@ -28,10 +28,11 @@
 
 <details>
   <summary style="font-weight:bold;"> Настройте Webhook в CarrotQuest </summary> <br />
+ 
 В CarrotQuest необходимо настроить Webhook на "Webhook url" сервиса CoMagic/UIS из настроек.<br />  
 a. Заходим в  CarrotQuest в раздел Интеграции -> Интеграции своими руками , создаем интеграцию Webhooks.<br />  
 b. В поле URL вставляем скопированный адрес, в поле "События" выбираем "Вопрос диалога разрешен".<br /> 
-c. Нажимаем "Сохранить".
+c. Нажимаем "Сохранить". <br /> 
  
 ![image](Carrot_hook.gif)  
 
