@@ -24,33 +24,33 @@
 <details>
  <summary style="font-weight:bold;"> Подробнее </summary>  <br />
 
-	- Шаблоны и интеграции → Веб-запросы → Создать веб-запрос
-	  - Указываем название
-	  - В URL указываем Webhook url из настроек интеграции
-	  - Проставляем галочку POST запрос и в тело добавляем следующий json  <br />
-   
-	<Alert backgroundColor="#c3e8d7">
-	{  
-	"date_time": "[bukza_created_date]",  
-	"name": "[bukza_full_name]",  
-	"phone": "[bukza_phone]",  
-	"email": "[bukza_email]",  
-	"message": "Номер заказа: [bukza_order_id]; Код бронирования: [bukza_code]",  
-	"visitor_session_id": "[bukza_n2]"  
-	} 
- 
-	</Alert>   <br />
- 
-	  - Сохраняем 
-	
-	- Триггеры → Добавить задачу 
-	  - Добавляем действие "Отправить веб-запрос" и выбираем созданный ранее веб-запрос
-	
-	  - "Если в заказе несколько бронирований?" выбираем Выполнить для каждого
-	
-	  - Сохраняем 
-	
-	![image](bukza_hook.gif)
+- Шаблоны и интеграции → Веб-запросы → Создать веб-запрос
+  - Указываем название
+  - В URL указываем Webhook url из настроек интеграции
+  - Проставляем галочку POST запрос и в тело добавляем следующий json  <br />
+
+<Alert backgroundColor="#c3e8d7">
+{  
+"date_time": "[bukza_created_date]",  
+"name": "[bukza_full_name]",  
+"phone": "[bukza_phone]",  
+"email": "[bukza_email]",  
+"message": "Номер заказа: [bukza_order_id]; Код бронирования: [bukza_code]",  
+"visitor_session_id": "[bukza_n2]"  
+} 
+
+</Alert>   <br />
+
+  - Сохраняем 
+
+- Триггеры → Добавить задачу 
+  - Добавляем действие "Отправить веб-запрос" и выбираем созданный ранее веб-запрос
+
+  - "Если в заказе несколько бронирований?" выбираем Выполнить для каждого
+
+  - Сохраняем 
+
+![image](bukza_hook.gif)
  
 </details>  
 
