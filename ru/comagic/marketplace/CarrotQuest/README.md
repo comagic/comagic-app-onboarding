@@ -44,6 +44,7 @@ c. Нажимаем "Сохранить". <br />
 
 ![image](Carrot_Auth.jpg) <br />
 Как получить ключ АПИ в CarrotQuest.  <br />
+Настройки -> Разработчикам -> Создать новый <br />
 
 ![image](Carrot_Api_key.gif) <br />
 <br /> 
