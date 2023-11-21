@@ -78,6 +78,8 @@
   <Alert backgroundColor="#c3e8d7">
     
    a class="yclick" href="https://n822081.yclients.com/" target="_blank">Открыть новую вкладку</a>
+
+   где "https://n822081.yclients.com/" - это домен страницы на которой стоит ваш виджет.
    
  </Alert>   <br />
   
