@@ -54,7 +54,7 @@
         - Параметр: orderId 
         - Значение: {{ order.id }} <br />
 
-![image](retail_trigger_2.gif)
+![image](retail_trigger_3.gif)
 
 </details> 
 
