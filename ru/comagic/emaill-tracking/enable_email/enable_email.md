@@ -1,5 +1,5 @@
 # Руководство
-<IframeVideo src="https://www.youtube.com/watch?v=_4AkBVkwnnQ"></IframeVideo>
+<IframeVideo src="https://www.youtube.com/embed/_4AkBVkwnnQ"></IframeVideo>
 
 В этом разделе осуществляется добавление интеграций с вашими почтовыми ящиками.
 Для добавления почтового ящика нажмите на кнопку «Подключить почту».
