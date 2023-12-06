@@ -51,6 +51,16 @@
     {
       "pattern": "/summary_analytics/:id#group_id=6&name=Анализ платной рекламы VK Реклама",
       "filePath": "/ad_analytic/report/ad_yandex_vk_new.md"
+    },
+    {
+      "id": "enable_email_1",
+      "pattern": "/marketplace/custom/email_tracking/:id",
+      "filePath": "/emaill-tracking/enable_email/enable_email.md",
+      "conditions": {
+        "parameter": "user_id",
+        "operator": "=",
+        "value": 13775
+      }
     }
   ]
 }
