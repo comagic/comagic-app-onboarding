@@ -60,6 +60,15 @@
         "parameter": "user_id",
         "operator": "=",
         "value": 13775
+      },
+      {
+      "id": "rule_1",
+      "pattern": "email_tracking/rules/:id",
+      "filePath": "/emaill-tracking/enable_email/rule.md",
+      "conditions": {
+        "parameter": "user_id",
+        "operator": "=",
+        "value": 13775
       }
     }
   ]
