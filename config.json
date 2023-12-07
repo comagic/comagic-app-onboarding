@@ -71,6 +71,16 @@
         "operator": "=",
         "value": 13775
       }
+    },
+    {
+      "id": "block_1",
+      "pattern": "/email_tracking/replacement-email-groups/:id",
+      "filePath": "/emaill-tracking/enable_email/block.md",
+      "conditions": {
+        "parameter": "user_id",
+        "operator": "=",
+        "value": 13775
+      }
     }
   ]
 }
