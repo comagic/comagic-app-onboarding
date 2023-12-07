@@ -2,7 +2,7 @@
 <br>
 <br>
 <IframeVideo src="https://www.youtube.com/embed/_4AkBVkwnnQ">
-<img scr="https://github.com/Scadar/onboarding_md/blob/main/static/call-tracking-pkt-img3.png?raw=true" alt="" width="100%" height="180px"/> 
+<img scr="https://github.com/Archiballt/comagic/comagic-app-onboarding/blob/main/ru/comagic/emaill-tracking/enable_email/Email_tracking_png.png?raw=true" alt="" width="100%" height="180px"/> 
 </IframeVideo>
 <br>
 
