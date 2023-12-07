@@ -1,6 +1,8 @@
 ## Руководство
 <br>
-<IframeVideo src="https://www.youtube.com/embed/_4AkBVkwnnQ"></IframeVideo>
+<IframeVideo src="https://www.youtube.com/embed/_4AkBVkwnnQ">
+  <img src="Email_tracking_png.png" alt="" width="100%" height="180px"/>
+</IframeVideo>
 <br>
 
 В этом разделе осуществляется добавление интеграций с вашими почтовыми ящиками.
