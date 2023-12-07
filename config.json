@@ -59,7 +59,7 @@
       "conditions": {
         "parameter": "user_id",
         "operator": "=",
-        "value": 13775
+        "value": 560398
       }
     },
       {
@@ -69,7 +69,7 @@
       "conditions": {
         "parameter": "user_id",
         "operator": "=",
-        "value": 13775
+        "value": 560398
       }
     },
     {
@@ -79,7 +79,7 @@
       "conditions": {
         "parameter": "user_id",
         "operator": "=",
-        "value": 13775
+        "value": 560398
       }
     }
   ]
