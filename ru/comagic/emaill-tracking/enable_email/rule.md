@@ -2,7 +2,7 @@
 <br>
 <br>
 <IframeVideo src="https://www.youtube.com/embed/_4AkBVkwnnQ">
-<img scr="https://i.postimg.cc/KcnZd30m/Email-tracking-png.png" alt="" width="100%" height="180px"/>
+<img src="Email_tracking_png.png" alt="" width="100%" height="180px"/>
 </IframeVideo>
 <br>
 
