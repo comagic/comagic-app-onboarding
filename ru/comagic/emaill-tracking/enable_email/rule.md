@@ -1,6 +1,8 @@
 ## Правила Емейлтрекинга
 <br>
+
 ![image](Email_tracking_png.png)
+
 <br>
 <IframeVideo src="https://www.youtube.com/embed/_4AkBVkwnnQ">
 <img src="https://images.unsplash.com/photo-1481349518771-20055b2a7b24" alt="" width="100%" height="180px"/>
