@@ -2,9 +2,7 @@
 <br>
 <br>
 <IframeVideo src="https://www.youtube.com/embed/_4AkBVkwnnQ">
-<img alt="" width="100%" height="180px"> 
-![image](Email_tracking_png.png)
-</img>
+<img scr="https://github.com/Scadar/onboarding_md/blob/main/static/call-tracking-pkt-img3.png?raw=true" alt="" width="100%" height="180px"/> 
 </IframeVideo>
 <br>
 
