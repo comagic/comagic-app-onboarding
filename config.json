@@ -60,7 +60,8 @@
         "parameter": "user_id",
         "operator": "=",
         "value": 13775
-      },
+      }
+    },
       {
       "id": "rule_1",
       "pattern": "email_tracking/rules/:id",
