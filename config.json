@@ -53,34 +53,16 @@
       "filePath": "/ad_analytic/report/ad_yandex_vk_new.md"
     },
     {
-      "id": "enable_email_1",
       "pattern": "/marketplace/custom/email_tracking/:id",
-      "filePath": "/emaill-tracking/enable_email/enable_email.md",
-      "conditions": {
-        "parameter": "user_id",
-        "operator": "=",
-        "value": 560398
-      }
+      "filePath": "/emaill-tracking/enable_email/enable_email.md"
     },
       {
-      "id": "rule_1",
       "pattern": "/email_tracking/rules/:id",
-      "filePath": "/emaill-tracking/enable_email/rule.md",
-      "conditions": {
-        "parameter": "user_id",
-        "operator": "=",
-        "value": 560398
-      }
+      "filePath": "/emaill-tracking/enable_email/rule.md"
     },
     {
-      "id": "block_1",
       "pattern": "/email_tracking/replacement-email-groups/:id",
-      "filePath": "/emaill-tracking/enable_email/block.md",
-      "conditions": {
-        "parameter": "user_id",
-        "operator": "=",
-        "value": 560398
-      }
+      "filePath": "/emaill-tracking/enable_email/block.md"
     }
   ]
 }
