@@ -43,7 +43,7 @@
   <summary style="font-weight:bold;"> Подробнее </summary> <br /> 
   
    - Для авторизации, необходимо завести локальное приложение в Битрикс24 . Разработчикам → Другое → Локальное приложение.
-   - В приложении указать след URL  https://uc-http-requester-prod-api.comagic.ru/oauth2/callback.
+   - В приложении указать след URL  https://uc-http-requester-prod-api.comagic.ru/oauth2/callback
    - Добавьте следующие права: CRM (crm), Открытые линии (imopenlines), Чат и уведомления (im), Контакт-центр (contact_center).
    - В нем будут выданы ключ и id юзера, которые необходимо ввести в Авторизации в настройках интеграции. 
 ![image](bitrix_auth.gif)  
