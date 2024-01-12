@@ -18,7 +18,7 @@
 1. Нажмите "Активен" на этой странице.
 2. **Авторизация в Chat2desk** <br />
 В поле Авторизация в Chat2desk вводим ключ АПИ Chat2desk.  
-![image](c2d_cred.png)
+![image](chat2desk_auth.jpg)
 Как получить ключ АПИ в Chat2Desk.  
 ![image](c2d_api.gif)
 <br />
