@@ -67,8 +67,7 @@
     {     
       "pattern": "/tags/:id",
       "filePath": "/tags/tags.md"
-      }
     }
-    }
+    
   ]
 }
