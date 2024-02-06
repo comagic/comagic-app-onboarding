@@ -63,6 +63,15 @@
     {
       "pattern": "/email_tracking/replacement-email-groups/:id",
       "filePath": "/emaill-tracking/enable_email/block.md"
-    }
+    },
+    {
+      "id": "tags_2",
+      "pattern": "/tags/:id",
+      "filePath": "/tags/tags.md",
+      "conditions": {
+        "parameter": "user_id",
+        "operator": "=",
+        "value": 161472
+      }
   ]
 }
