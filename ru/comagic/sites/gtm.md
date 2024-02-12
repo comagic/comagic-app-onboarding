@@ -1,7 +1,9 @@
 ## Установка кода через GTM
 <br>
 <br>
-
+<img src="thumbnail-2.svg" alt="" width="100%" height="180px"/>
+<br>
+<br>
 Чтобы установить код с помощью Google Tag Manager **на всех страницах** сайта:
 <br>
 
