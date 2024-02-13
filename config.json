@@ -72,6 +72,14 @@
       "pattern": "/costs#manual",
       "filePath": "/costs/main.md"
     },
+    {
+      "pattern": "/costs#csv",
+      "filePath": "/costs/main.md"
+    },
+    {
+      "pattern": "/call_tracking/numbers-new/connecting",
+      "filePath": "/call-tracking/numbers-new/main.md"
+    },
     {     
       "pattern": "/tags/:id",
       "filePath": "/tags/tags.md"
