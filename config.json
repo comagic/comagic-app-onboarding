@@ -69,13 +69,12 @@
       "filePath": "/call-tracking/sources/main.md"
     },
     {
-      "pattern": "/costs",
+      "pattern": "/costs#manual",
       "filePath": "/costs/main.md"
     },
     {     
       "pattern": "/tags/:id",
       "filePath": "/tags/tags.md"
     }
-    
   ]
 }
