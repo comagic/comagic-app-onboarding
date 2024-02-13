@@ -64,6 +64,10 @@
       "pattern": "/email_tracking/replacement-email-groups/:id",
       "filePath": "/emaill-tracking/enable_email/block.md"
     },
+     {
+      "pattern": "/call_tracking/sources/:id",
+      "filePath": "/call-tracking/sources/main.md"
+    },
     {     
       "pattern": "/tags/:id",
       "filePath": "/tags/tags.md"
