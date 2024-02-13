@@ -68,6 +68,10 @@
       "pattern": "/call_tracking/sources/:id",
       "filePath": "/call-tracking/sources/main.md"
     },
+        {
+      "pattern": "/costs",
+      "filePath": "/costs/main.md"
+    },
     {     
       "pattern": "/tags/:id",
       "filePath": "/tags/tags.md"
