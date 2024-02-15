@@ -1,4 +1,4 @@
-## Правила Емейлтрекинга
+## Руководство по настройке
 <br>
 <br>
 <IframeVideo src="https://www.youtube.com/embed/_4AkBVkwnnQ">
