@@ -1,12 +1,11 @@
-# HubSpot Integration
+# HubSpot Integration <br />
 
 These instructions are for users who wish to set up an integration between CallGear and HubSpot CRM. Below is the functionality as well as the steps to set up the integration.
 
-## Available Features
+## Available Features <br />
 
 <details>
-<summary>Click to expand/collapse</summary>
-
+<summary style="font-weight:bold;">Click to expand/collapse</summary> <br />
 
 - **Automated Contact and Call Creation**: Easily generate contact and call records during incoming and outgoing calls with seamless automation.
 - **Automated Call Routing**: Route calls to the appropriate manager (Сontact Щwner) in HubSpot, ensuring efficient communication management.
@@ -18,38 +17,44 @@ These instructions are for users who wish to set up an integration between CallG
 
 </details>
 
-## Integration Setup
+<br />
+
+---
+
+## Integration Setup <br />
 
 <details>
-<summary>Initial Setup Steps & CallGear Softphone Widget</summary>
+<summary style="font-weight:bold;">Initial Setup Steps & CallGear Softphone Widget</summary>
 
-### Initial Steps
+### Initial Steps <br />
 
 - **Authorization**:
-    - Log into [HubSpot](https://app.hubspot.com/) with your credentials.
+    - Log into <a href="https://app.hubspot.com/" style="color: blue; text-decoration: underline;">HubSpot</a> with your credentials.
     - Save and confirm the connection.
-	
-	![image](hubspot_authorization.gif)
+  
+  ![image](hubspot_authorization.gif)
+  
+<br />
 
-### CallGear Softphone Widget
+### CallGear Softphone Widget <br />
 
 1.  **Installation**:
-    - Use the [provided link](https://chromewebstore.google.com/detail/callgear/gmepbeelpjhhlnkccmclgijnnleadijl) to download and install the widget.
+    - Use the <a href="https://chromewebstore.google.com/detail/callgear/gmepbeelpjhhlnkccmclgijnnleadijl" style="color: blue; text-decoration: underline;">provided link</a> to download and install the widget.
 2.  **Authorization**:
     - Authenticate using your CallGear account credentials.
     - Log in to the installed widget under the same account.
 3.  **Functionality Check**:
-    - Enable the "Show softphone" option within [HubSpot](https://app.hubspot.com/).
+    - Enable the "Show softphone" option within <a href="https://app.hubspot.com/" style="color: blue; text-decoration: underline;">HubSpot</a>.
     - Make sure that the widget icon is displayed.
-	
-	![image](hubspot_softphone.gif)
+  
+  ![image](hubspot_softphone.gif)
 
 </details>
-
+<br />
 <details>
-<summary>Integration Settings</summary>
+<summary style="font-weight:bold;">Integration Settings</summary>
 
-### Matching Employee
+### Matching Employee <br />
 
 - Configure a match between CallGear and HubSpot users to automatically route calls to the responsible manager (Contact's owner).
 
@@ -57,27 +62,37 @@ These instructions are for users who wish to set up an integration between CallG
 
 _If the system identifies a HubSpot customer on an incoming call, the call is automatically forwarded to their Contact Owner (personal manager)._
 
-### Data Transfer Setup
+<br />
+
+### Data Transfer Setup <br />
 
 - **Call Transfer Control**:
   - Enable or disable the creation of tickets or deals according to your needs.
   - Configure tickets and deals creation settings, including pipeline and stage.
+<br />
+
 - **Attaching Call Recordings**:
   - Define sources from which you want to receive recordings and call information.
   - Enable feature to automatically attach voicemail recordings to appropriate contacts if voicemail is configured.
   
   ![image](hubspot_setting_for_deals_and_tickets.gif)
+<br />
 
 - **Call Details Mapping**:
   - Configure the transfer of call information from CallGear to HubSpot:
     - Choose an object type: Contacts, Deals, Tickets.
     - Select the information you want to transfer from CallGear.
     - Select the field in the HubSpot object to which this information will be transferred.
-	
-	![image](hubspot_data_mapping.gif)
+
+   ![image](hubspot_data_mapping.gif)
 
 </details>
 
-## Support
+<br />
 
-If you encounter any issues or have further questions, please reach out to [CallGear Support](mailto:support@callgear.com) for assistance.
+---
+
+## Support <br />
+
+
+If you have any problems or additional questions, please contact <a href="mailto:support@callgear.com" style="color: blue; text-decoration: underline;">CallGear Support</a> for assistance.
