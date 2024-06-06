@@ -54,13 +54,14 @@ These instructions are for users who wish to set up an integration between CallG
 <details>
 <summary style="font-weight:bold;">Integration Settings</summary>
 
-### Matching Employee <br />
+### Custom Matching Employee <br />
 
-- Configure a match between CallGear and HubSpot users to automatically route calls to the responsible manager (Contact's owner).
+_Incoming calls are forwarded to the Contact Owner (personal manager) identified in HubSpot._
+
+- Automatic matching: After integration, employees are automatically mapped and calls are forwarded based on user's email.
+- UI matching: Manually match employees in the UI, and these mappings will take precedence over automatic matching.
 
 ![image](hubspot_matching_employee.png)
-
-_If the system identifies a HubSpot customer on an incoming call, the call is automatically forwarded to their Contact Owner (personal manager)._
 
 <br />
 
