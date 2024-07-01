@@ -116,6 +116,7 @@ This section guides users on how to create a connected app within Salesforce. A 
   - Enable Task creation for successful inbound, outbound and missed calls.
   - Specify the status and priority with which the task will be created.
   - Task will be created if there are no tasks in open status.
+  - On inbound missed call task will be created every time.
 
 ![image](sf_task.gif)
 
@@ -126,6 +127,21 @@ This section guides users on how to create a connected app within Salesforce. A 
     - Select the field in the SalesForce object to which this information will be transferred.
 
 ![image](sf_mapping.gif)
+
+</details>
+<br />
+
+<details>
+<summary style="font-weight:bold;">CallGear Softphone Widget</summary> <br />
+
+1.  **Installation**:
+    - Use the <a href="https://chromewebstore.google.com/detail/callgear/gmepbeelpjhhlnkccmclgijnnleadijl" style="color: blue; text-decoration: underline;">provided link</a> to download and install the widget.
+2.  **Authorization**:
+    - Authenticate using your CallGear account credentials.
+    - Log in to the installed widget under the same account.
+3.  **Functionality Check**:
+    - Enable the "Show softphone" option.
+    - Make sure that the widget icon is displayed.
 
 </details>
 <br />
