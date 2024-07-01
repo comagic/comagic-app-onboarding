@@ -135,7 +135,7 @@ This section guides users on how to create a connected app within Salesforce. A 
 <summary style="font-weight:bold;">CallGear Softphone Widget</summary> <br />
 
 1.  **Installation**:
-    - Use the <a href="https://chromewebstore.google.com/detail/callgear/gmepbeelpjhhlnkccmclgijnnleadijl" style="color: blue; text-decoration: underline;">provided link</a> to download and install the widget.
+    - Use the <a href="https://chromewebstore.google.com/detail/callgear/gmepbeelpjhhlnkccmclgijnnleadijl" style="color: blue; text-decoration: none;">provided link</a> to download and install the widget.
 2.  **Authorization**:
     - Authenticate using your CallGear account credentials.
     - Log in to the installed widget under the same account.
@@ -151,4 +151,4 @@ This section guides users on how to create a connected app within Salesforce. A 
 ## Support <br />
 
 
-If you have any problems or additional questions, please contact <a href="mailto:support@callgear.com" style="color: blue; text-decoration: underline;">CallGear Support</a> for assistance.
+If you have any problems or additional questions, please contact <a href="mailto:support@callgear.com" style="color: blue; text-decoration: none;">CallGear Support</a> for assistance.
