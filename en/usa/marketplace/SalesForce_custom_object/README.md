@@ -108,6 +108,8 @@ This section guides users on how to create a connected app within Salesforce. A 
 
 - Select the type of call at which the object will be created
 
+![image](sf_cobj6.png)
+
 </details>
 
 ---
