@@ -78,7 +78,7 @@ This section guides users on how to create a connected app within Salesforce. A 
 </details>
 <br />
 <details>
-<summary style="font-weight:bold;">CallGear Credentials Settings</summary> <br />
+<summary style="font-weight:bold;">Entity Creation Settings</summary> <br />
 
 - You can add up to 25 different Salesforce objects. 
 
@@ -105,6 +105,8 @@ This section guides users on how to create a connected app within Salesforce. A 
 - You can concatenate multiple CallGear fields with each other or with manual text in one SalesForce field.
 
 ![image](sf_cobj5.png)
+
+- Select the type of call at which the object will be created
 
 </details>
 
