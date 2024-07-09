@@ -85,7 +85,7 @@ This section guides users on how to create a connected app within Salesforce. A 
 ![image](sf_cobj1.png)
 
 - Select the object type you want to create.
-  - Every field in one object should have the same object type.
+  - **! Every field in one object should have the same object type.**
 
 ![image](sf_cobj2.png)
 
@@ -109,6 +109,16 @@ This section guides users on how to create a connected app within Salesforce. A 
 - Select the type of call at which the object will be created
 
 ![image](sf_cobj6.png)
+
+- Create duplicates switch.
+  - If turned on, the object will be created every call.
+  - If turned off, system will try to find the object in Salesforce before creation, if object is not found, it will be created.
+  - **If one or more chosen fields is not searchable, the object will not be found and will be created.**
+
+![image](sf_cobj_7.png)
+
+- CallGear call parameters description.
+  - [Link](https://docs.google.com/spreadsheets/d/19sJGpZEH-tfLBPMhW2xjKrmfK4L8O8T8kpEbet8Ou_Q/edit?usp=sharing)
 
 </details>
 
