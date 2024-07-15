@@ -1,13 +1,15 @@
-# SalesForce Custom Object <br />
+# Salesforce Custom Object <br />
 
-These instructions are for users who wish to set up an integration between CallGear and SalesForce CRM. Below is the functionality as well as the steps to set up the integration.
+These instructions are for users who wish to set up an integration between CallGear and Salesforce CRM. Below is the functionality as well as the steps to set up the integration.
 
 
 <br />
 
 ---
 ## Integration Setup <br />
-If you have already connected main Salesforce integration, you can choose the same credentials and skip this section.
+This integration is an add-on to the main Salesforce integration that allows you to work with Custom Objects. If you want to set up attachments for the main entities, please do so in the main Salesforce integration.
+
+If you have already connected the main Salesforce integration, you may use the same credentials and skip the first 3 sections — go right to the Entity Creation Settings.
 <details>
 <summary style="font-weight:bold;">Salesforce Settings</summary> <br />
 
@@ -70,7 +72,7 @@ This section guides users on how to create a connected app within Salesforce. A 
 
 #### Set Up Credentials <br />
   - Log in to your CallGear account using one of these links - https://go.callgear.com/ or https://go.callgear.ae/ 
-  - Go to Marketplace and select SalesForce integration
+  - Go to Marketplace and select Salesforce integration
   - Enter your Salesforce account URL and provide the necessary authentication keys from your Salesforce Connected App.
 
 ![image](../SalesForce/sf_cred_settings.png)
@@ -79,6 +81,8 @@ This section guides users on how to create a connected app within Salesforce. A 
 <br />
 <details>
 <summary style="font-weight:bold;">Entity Creation Settings</summary> <br />
+
+In Salesforce, a custom object is a user-defined database table that allows you to store information unique to your organization. Custom objects are similar to standard objects (such as Accounts, Contacts, and Opportunities) provided by Salesforce, but they are created to cater to specific business needs that standard objects do not address.
 
 - You can add up to 25 different Salesforce objects. 
 
@@ -89,11 +93,11 @@ This section guides users on how to create a connected app within Salesforce. A 
 
 ![image](sf_cobj2.png)
 
-- Select CallGear and SalesForce fields.
+- Select CallGear and Salesforce fields.
   - Select the information you want to transfer from CallGear.
-  - Select the field in the SalesForce object to which this information will be transferred.
-  - SalesForce fields marked with ** are required. Without setting these fields, the object will not be created.
-  - SalesForce fields marked with * if not set, the value will be defaulted on creation by SalesForce settings.
+  - Select the field in the Salesforce object to which this information will be transferred.
+  - Salesforce fields marked with ** are required. Without setting these fields, the object will not be created.
+  - Salesforce fields marked with * if not set, the value will be defaulted on creation by Salesforce settings.
   - After the call finishes, the object will be created in Salesforce.
 
 ![image](sf_cobj3.gif)
@@ -102,7 +106,7 @@ This section guides users on how to create a connected app within Salesforce. A 
 
 ![image](sf_cobj4.png)
 
-- You can concatenate multiple CallGear fields with each other or with manual text in one SalesForce field.
+- You can concatenate multiple CallGear fields with each other or with manual text in one Salesforce field.
 
 ![image](sf_cobj5.png)
 
