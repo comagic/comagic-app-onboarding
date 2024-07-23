@@ -30,17 +30,17 @@ These instructions are for users who wish to set up an integration between CallG
     ![image](1.png)
 3. **Authorization**:
     - Add Pipedrive CRM Credentials Name.
-    - Save and confirm the connection.
+    - Save and confirm the connection.<br>
       ![image](2.png)
-    - Sign in yor Pipedrive account
+    - Sign in yor Pipedrive account<br>
    ![image](3.png)
-    - Accept access
+    - Accept access<br>
    ![image](4.png)
     - Select branch by your account domain
       - CallGear - callgear.com
-      - CallGear UAE - callgear.ae
+      - CallGear UAE - callgear.ae<br>
 ![image](5.png)
-    - Account connected.   
+    - Account connected.<br>
    ![image](6.png)
 ### CallGear Softphone Widget
 
@@ -52,11 +52,10 @@ These instructions are for users who wish to set up an integration between CallG
    ![image](8.png)
    ![image](9.png)
     - Reload page.
-   ![image](35.png)
 3. **Functionality Check**:
-    - Enable the "Show softphone" option within Pipedrive CRM.
+    - Enable the "Show softphone" option within Pipedrive CRM.<br>
    ![image](14.png)
-    - Make sure that the widget icon is displayed.  
+    - Make sure that the widget icon is displayed.<br>
    ![image](15.png)
 
     
