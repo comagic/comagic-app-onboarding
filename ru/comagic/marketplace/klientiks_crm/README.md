@@ -52,8 +52,8 @@
 <details>
   <summary style="font-weight:bold;"> Подробнее </summary> <br />
 
-Инструкция по настройке Webhook [по ссылке](https://klientikscrm.helpdeskeddy.com/ru/knowledge_base/art/569/cat/29/administrativnaja-panel-dlja-sozdanija-uvedomlenij-webhook-po-sobitijam-v-sisteme)  
-Пользователь с ролью Владелец может открыть административную панель [по ссылке](https://klientiks.ru/clientix/admin/eventHandlers) 
+Инструкция по настройке Webhook **[по ссылке](https://klientikscrm.helpdeskeddy.com/ru/knowledge_base/art/569/cat/29/administrativnaja-panel-dlja-sozdanija-uvedomlenij-webhook-po-sobitijam-v-sisteme)**  
+Пользователь с ролью Владелец может открыть административную панель **[по ссылке](https://klientiks.ru/clientix/admin/eventHandlers)** 
 
 - Для событий “Запись клиента на прием” и “Онлайн-запись через виджет” в адрес для запроса указываются следующие значения:  
 **Webhook url**?appointment_id={{#appointment}}{{id}}{{/appointment}}&status={{#new_data}}{{status}}{{/new_data}} ,   
@@ -111,8 +111,8 @@
 <details>
   <summary style="font-weight:bold;"> Подробнее </summary> <br />
 
-Инструкция по настройке Webhook [по ссылке](https://klientikscrm.helpdeskeddy.com/ru/knowledge_base/art/569/cat/29/administrativnaja-panel-dlja-sozdanija-uvedomlenij-webhook-po-sobitijam-v-sisteme)  
-Пользователь с ролью Владелец может открыть административную панель [по ссылке](https://klientiks.ru/clientix/admin/eventHandlers) 
+Инструкция по настройке Webhook **[по ссылке](https://klientikscrm.helpdeskeddy.com/ru/knowledge_base/art/569/cat/29/administrativnaja-panel-dlja-sozdanija-uvedomlenij-webhook-po-sobitijam-v-sisteme)**  
+Пользователь с ролью Владелец может открыть административную панель **[по ссылке](https://klientiks.ru/clientix/admin/eventHandlers)** 
  <br />
  
 - Выбирается событие “Онлайн-запись через виджет”   
@@ -128,7 +128,7 @@
 
 4. **Передача заявок** — при прожатии будет включена интеграция по передаче заявок и будут выведены дополнительные настройки.  <br />
 
-5.  **Передавать тег по источнику ВОЗ** — при прожатии на заявку будет проставляться тег из поля источник ВОЗ. Параметр настраивается персонально под каждого клиента в Клиентикс , инструкция [по ссылке](https://klientikscrm.helpdeskeddy.com/ru/knowledge_base/art/623/cat/55/)     <br />
+5.  **Передавать тег по источнику ВОЗ** — при прожатии на заявку будет проставляться тег из поля источник ВОЗ. Параметр настраивается персонально под каждого клиента в Клиентикс , инструкция **[по ссылке](https://klientikscrm.helpdeskeddy.com/ru/knowledge_base/art/623/cat/55/)**     <br />
 В техническое имя поля обязательно указать "lead"  <br />
 
 6.  **Тип трафика** — необходимо выбрать какую сущность использовать для обращений без сессии. По умолчанию выбран Источник. <br />  
@@ -183,26 +183,26 @@
 Сотрудники не копируются автоматически из одного сервиса в другой. Это значит, что сотрудники должны быть созданы вручную и в личном кабинете UIS, и в сервисе Клиентикс.  <br />
 
 - В личном кабинете UIS обязательно укажите внутренний номер у всех сотрудников. <br />
-- Войдите в Клиентикс под ролью «Владелец», в новом окне откройте [ссылку](https://klientiks.ru/clientix/admin/dynamicFields) и добавьте поля: <br />
+- Войдите в Клиентикс под ролью «Владелец», в новом окне откройте **[ссылку](https://klientiks.ru/clientix/admin/dynamicFields)** и добавьте поля: <br />
   
-  - **Имя поля**: itool_labs_voip_internal_number  
-   **Метка**: Внутренний номер сотрудника  
+  - **Имя поля(техническое)**: itool_labs_voip_internal_number  
+   **Название поля**: Внутренний номер сотрудника  
    **Модель**: Сотрудники  
    **Сценарий**: editEmployee  
-   **Тип поля**: text   <br />
+   **Тип поля**: Текстовая строка(text)   <br />
 
 
-  - **Имя поля**: itool_labs_voip_internal_number  
-     **Метка**: Внутренний номер сотрудника  
+  - **Имя поля(техническое)**: itool_labs_voip_internal_number  
+     **Название поля**: Внутренний номер сотрудника  
      **Модель**: Сотрудники  
      **Сценарий**: edit  
-     **Тип поля**: text <br />
+     **Тип поля**: Текстовая строка(text) <br />
 
-  - **Имя поля**: itool_labs_voip_internal_number      
-      **Метка**: Внутренний номер сотрудника  
+  - **Имя поля(техническое)**: itool_labs_voip_internal_number      
+      **Название поля**: Внутренний номер сотрудника  
       **Модель**: Сотрудники  
       **Сценарий**: editOwner  
-      **Тип поля**: text <br />
+      **Тип поля**: Текстовая строка(text) <br />
      
 
    <br /> 
