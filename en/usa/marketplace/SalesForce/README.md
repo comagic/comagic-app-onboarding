@@ -112,11 +112,11 @@ This section guides users on how to create a connected app within Salesforce. A 
 
 ![image](sf_opportunity_stage.gif)
 
-- **Task Creation on Missed Calls**: 
+- **Task (Call log) Creation**: 
   - Enable Task creation for successful inbound, outbound and missed calls.
   - Specify the status and priority with which the task will be created.
-  - Task will be created if there are no tasks in open status.
-  - On inbound missed call task will be created every time.
+  - Task will be created on every call.
+  - To avoid creating tasks for missed outbound calls, the option can be disabled using the checkbox.
 
 ![image](sf_task.gif)
 
