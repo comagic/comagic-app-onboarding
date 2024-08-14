@@ -1,6 +1,6 @@
-# SalesForce Integration <br />
+# Salesforce Integration <br />
 
-These instructions are for users who wish to set up an integration between CallGear and SalesForce CRM. Below is the functionality as well as the steps to set up the integration.
+These instructions are for users who wish to set up an integration between CallGear and Salesforce CRM. Below is the functionality as well as the steps to set up the integration.
 
 ## Available Features <br />
 
@@ -8,11 +8,11 @@ These instructions are for users who wish to set up an integration between CallG
 <summary style="font-weight:bold;">Click to expand/collapse</summary> <br />
 
 - **Automated Contact and Lead Creation**: Easily generate contact and lead records during incoming and outgoing calls with seamless automation.
-- **Automated Call Routing**: Route calls to the appropriate manager (Сontact/Lead Owner) in SalesForce, ensuring efficient communication management.
+- **Automated Call Routing**: Route calls to the appropriate manager (Сontact/Lead Owner) in Salesforce, ensuring efficient communication management.
 - **Opportunity Creation**: Automatically create Opportunity after successful inbound and outbound or missed calls, facilitating a fast sales process.
 - **Task Creation**: Automate the creation of tasks for successful inbound, outbound or missed calls, providing comprehensive customer support management.
 - **Flexible Call Attachment Options**: Customize call attachments by linking call recordings to related tasks, opportunities, contacts or leads.
-- **Customized Data Transfer**: Customize how data transfers from CallGear to specific SalesForce fields to improve data integrity.
+- **Customized Data Transfer**: Customize how data transfers from CallGear to specific Salesforce fields to improve data integrity.
 - **Softphone Widget**: Initiate inbound and outbound calls directly within your CRM system with a convenient Softphone widget, enabling quick and efficient communication with customers and prospects.
 
 </details>
@@ -83,7 +83,7 @@ This section guides users on how to create a connected app within Salesforce. A 
 
 #### Set Up Credentials <br />
   - Log in to your CallGear account using one of these links - https://go.callgear.com/ or https://go.callgear.ae/ 
-  - Go to Marketplace and select SalesForce integration
+  - Go to Marketplace and select Salesforce integration
   - Enter your Salesforce account URL and provide the necessary authentication keys from your Salesforce Connected App.
 
 ![image](sf_cred_settings.png)
@@ -104,6 +104,8 @@ This section guides users on how to create a connected app within Salesforce. A 
 
 ![image](sf_lead_status.gif)
 
+<br />
+
 - **Opportunity Creation**: 
   - Enable creation of Opportunity records for successful inbound, outbound and missed calls.
   - Specify the stage with which the lead will be created.
@@ -112,19 +114,31 @@ This section guides users on how to create a connected app within Salesforce. A 
 
 ![image](sf_opportunity_stage.gif)
 
-- **Task Creation on Missed Calls**: 
+<br />
+
+- **Task (Call log) Creation**: 
   - Enable Task creation for successful inbound, outbound and missed calls.
   - Specify the status and priority with which the task will be created.
-  - Task will be created if there are no tasks in open status.
-  - On inbound missed call task will be created every time.
+  - Task will be created on every call.
+  - To avoid creating tasks for missed outbound calls, the option can be disabled using the checkbox.
 
 ![image](sf_task.gif)
 
+<br />
+
+- **Attachment Creation**: 
+  - Enable Attachment creation for successful inbound and outbound calls.
+  - If turned on, call record will be loaded into Salesforce as Attachment and connected to chosen entity.
+
+![image](sf_attachments.png)
+
+<br />
+
 - **Call Details Mapping**:
-  - Configure the transfer of call information from CallGear to HubSpot:
+  - Configure the transfer of call information from CallGear to Salesforce:
     - Choose an object type: Contacts, Leads, Opportunities, Tasks.
     - Select the information you want to transfer from CallGear.
-    - Select the field in the SalesForce object to which this information will be transferred.
+    - Select the field in the Salesforce object to which this information will be transferred.
 
 ![image](sf_mapping.gif)
 
