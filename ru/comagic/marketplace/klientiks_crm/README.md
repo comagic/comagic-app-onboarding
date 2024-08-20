@@ -161,9 +161,19 @@
   **Тип поля**: Скрытое  
 
 <br />
-- Включить настройку COMPONENT_ONLINE_WIDGET_KEEP_FORM_DATA_FROM_INIT <br />
+
+![image](klientiks_session.jpg)
+
+<br />
+
+- Включить настройку **COMPONENT_ONLINE_WIDGET_KEEP_FORM_DATA_FROM_INIT** в **[панеле](https://klientiks.ru/clientix/admin/accountsettings)** (прописать true в соответствующей настройке) <br />
+
+![image](klientiks_settings.jpg)
   
 Это можно сделать самостоятельно, либо через запрос в поддержку Клиентикс. <br /> 
+
+ <br /> 
+ <br /> 
 
 После подключения интеграции заявки будут попадать в  Сырые данные -> Обращения и цели.   <br />
 Для проверки корректности работы интеграции оставьте тестовую запись в виджете Клиентикс.  <br />
