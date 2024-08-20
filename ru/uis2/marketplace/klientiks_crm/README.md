@@ -161,6 +161,7 @@
   **Тип поля**: Скрытое  
 
 <br />
+<br />
 
 ![image](klientiks_session.jpg)
 
@@ -168,7 +169,11 @@
 
 - Включить настройку **COMPONENT_ONLINE_WIDGET_KEEP_FORM_DATA_FROM_INIT** в **[панеле](https://klientiks.ru/clientix/admin/accountsettings)** (прописать true в соответствующей настройке) <br />
 
+ <br />
+
 ![image](klientiks_settings.jpg)
+
+ <br />
   
 Это можно сделать самостоятельно, либо через запрос в поддержку Клиентикс. <br /> 
 

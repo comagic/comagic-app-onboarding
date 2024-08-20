@@ -140,7 +140,7 @@
 8. Для передачи сессии по заявкам из Клиентикс, необходимо: <br />
    
 - Добавить параметр comagic_id в **[динамические поля](https://klientiks.ru/clientix/admin/dynamicFields)** (нужно войти в клиентикс под ролью «Владелец»).  <br />
-
+ <br />
 
   - **Имя поля(техническое)**: comagic_id  
   **Название поля**: comagic_id  
@@ -165,8 +165,11 @@
 ![image](klientiks_session.jpg)
 
 <br />
+<br />
 
 - Включить настройку **COMPONENT_ONLINE_WIDGET_KEEP_FORM_DATA_FROM_INIT** в **[панеле](https://klientiks.ru/clientix/admin/accountsettings)** (прописать true в соответствующей настройке) <br />
+
+<br />
 
 ![image](klientiks_settings.jpg)
   
