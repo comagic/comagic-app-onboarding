@@ -41,7 +41,7 @@
       "filePath": "/ad_analytic/report/marketing_and_sales_funnel.md"
     },
     {
-      "pattern": "/summary_analytics/:id#group_id=6&name=Анализ платной рекламы Яндекс Директ",
+      "pattern": "/summary_analytics/:id#group_id=6&name=Анализ рекламы Яндекс Директ",
       "filePath": "/ad_analytic/report/ad_yandex_direct.md"
     },
     {
@@ -80,7 +80,7 @@
       "pattern": "/call_tracking/numbers-new/connecting",
       "filePath": "/call-tracking/numbers-new/main.md"
     },
-    {     
+    {
       "pattern": "/tags/:id",
       "filePath": "/tags/tags.md"
     }
