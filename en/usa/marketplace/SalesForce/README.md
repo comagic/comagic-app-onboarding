@@ -156,7 +156,7 @@ This section guides users on how to create a connected app within Salesforce. A 
   <br /><br />
   - When a chat is opened by an incoming message from a client, an employee has not yet been assigned to it. Consequently, there is no option to attach an owner when creating an entities. The owner would be defaulted on creation by internal Salesforce settings. Owner could be assigned after the employee replies if the setting is enabled in the integration. 
   <br /><br />
-  - Sometimes the phone of the visitor could be hided. In this case only Task could be created if the related option is enabled in the integration settings. If the option is disabled, nothing will be created in such cases.
+  - Sometimes the phone of the visitor could be hidden. In this case only Task could be created if the related option is enabled in the integration settings. If the option is disabled, nothing will be created in such cases.
 
 </details>
 <br />
