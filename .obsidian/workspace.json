@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Без названия.md"
               }
             }
           },
@@ -137,7 +135,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -153,8 +152,10 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "c669ef3764022f2d",
+  "active": "e8e50b1c64837eea",
   "lastOpenFiles": [
+    "README.md",
+    "Без названия.md",
     "ru/comagic/call-tracking/replacement-phone-blocks/thumbnail.svg",
     "ru/comagic/call-tracking/replacement-phone-blocks/main.md",
     "ru/comagic/call-tracking/numbers-new/thumbnail.svg",
@@ -163,7 +164,6 @@
     "ru/comagic/ad_analytic/report/analyze_auditory.md",
     "ru/comagic/ad_analytic/report/ad_yandex_vk_new.md",
     "ru/comagic/ad_analytic/report/ad_yandex_direct.md",
-    "README.md",
     "config.json",
     "ru/uis2/tags/tags2.png",
     "ru/uis2/tags/tags.md",
@@ -178,7 +178,6 @@
     "ru/uis2/marketplace/yclients/yc_d_vkl.gif",
     "ru/uis2/marketplace/yclients/yc_f1.jpg",
     "ru/uis2/marketplace/yclients/Yclients_marshrootizacia1.png",
-    "ru/uis2/marketplace/yclients/yc_d2.jpg",
     "ru/uis2/marketplace/yclients/README.md",
     "ru/uis2/marketplace/yclients",
     "ru/uis2/marketplace/yandex_turbo/README.md",
