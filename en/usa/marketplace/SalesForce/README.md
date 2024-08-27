@@ -91,7 +91,7 @@ This section guides users on how to create a connected app within Salesforce. A 
 </details>
 <br />
 <details>
-<summary style="font-weight:bold;">Entity Creation Settings</summary> <br />
+<summary style="font-weight:bold;">Entity Creation Settings (Calls)</summary> <br />
 
 - **Contact Creation**: 
   - Enable creation of Contact records for inbound and outbound calls.
@@ -141,6 +141,22 @@ This section guides users on how to create a connected app within Salesforce. A 
     - Select the field in the Salesforce object to which this information will be transferred.
 
 ![image](sf_mapping.gif)
+
+</details>
+<br />
+
+<details>
+<summary style="font-weight:bold;">Entity Creation Settings (Chats)</summary> <br />
+
+- **Most of the settings for creating entities in chats are similar to those in calls.**
+<br /><br />
+
+- The main differences are:
+  - Entities will be created once for each chat opening (a message from a client or an employee wrote first) regardless of the number of messages before closing this chat.
+  <br /><br />
+  - When a chat is opened by an incoming message from a client, an employee has not yet been assigned to it. Consequently, there is no option to attach an owner when creating an entities. The owner would be defaulted on creation by internal Salesforce settings. Owner could be assigned after the employee replies if the setting is enabled in the integration. 
+  <br /><br />
+  - Sometimes the phone of the visitor could be hided. In this case only Task could be created if the related option is enabled in the integration settings. If the option is disabled, nothing will be created in such cases.
 
 </details>
 <br />
