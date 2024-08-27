@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "75c0228baab4ff9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "79631c27c5dfb78b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c669ef3764022f2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e98192dfe514f7f3",
+    "type": "split",
+    "children": [
+      {
+        "id": "552703e0ff38da94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8e50b1c64837eea",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8910c2512c978a89",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2b0fe530409d983c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "81eb72063363d22b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0783d8fec9d4732",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2ebe48a0b53345a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d7f2e99573f1bdd9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4d4affddf115205e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9e3f3a349fec0d5e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          },
+          {
+            "id": "9de60afba173d5a3",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 302.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "c669ef3764022f2d",
+  "lastOpenFiles": [
+    "ru/comagic/call-tracking/replacement-phone-blocks/thumbnail.svg",
+    "ru/comagic/call-tracking/replacement-phone-blocks/main.md",
+    "ru/comagic/call-tracking/numbers-new/thumbnail.svg",
+    "ru/comagic/call-tracking/numbers-new/main.md",
+    "ru/comagic/ad_analytic/report/marketing_and_sales_funnel.md",
+    "ru/comagic/ad_analytic/report/analyze_auditory.md",
+    "ru/comagic/ad_analytic/report/ad_yandex_vk_new.md",
+    "ru/comagic/ad_analytic/report/ad_yandex_direct.md",
+    "README.md",
+    "config.json",
+    "ru/uis2/tags/tags2.png",
+    "ru/uis2/tags/tags.md",
+    "ru/uis2/tags",
+    "ru/uis2/sites/gtm.md",
+    "ru/uis2/sites/main.md",
+    "ru/uis2/sites",
+    "ru/uis2/marketplace/yclients/yc_hook.jpg",
+    "ru/uis2/marketplace/yclients/yc_int.png",
+    "ru/uis2/marketplace/yclients/yc_f_vkl.gif",
+    "ru/uis2/marketplace/yclients/yc_f2.jpg",
+    "ru/uis2/marketplace/yclients/yc_d_vkl.gif",
+    "ru/uis2/marketplace/yclients/yc_f1.jpg",
+    "ru/uis2/marketplace/yclients/Yclients_marshrootizacia1.png",
+    "ru/uis2/marketplace/yclients/yc_d2.jpg",
+    "ru/uis2/marketplace/yclients/README.md",
+    "ru/uis2/marketplace/yclients",
+    "ru/uis2/marketplace/yandex_turbo/README.md",
+    "ru/uis2/marketplace/yandex_turbo",
+    "ru/uis2/marketplace/Yandex_disk/README.md",
+    "ru/uis2/marketplace/Yandex_disk",
+    "ru/uis2/marketplace/Verbox/README.md",
+    "ru/uis2/marketplace/Verbox",
+    "ru/uis2/marketplace/u-on_travel/README.md",
+    "ru/uis2/marketplace/u-on_travel",
+    "ru/uis2/marketplace/travelline/Readme.md",
+    "ru/uis2/marketplace/travelline",
+    "ru/uis2/marketplace/tilda/README.md",
+    "ru/uis2/marketplace/tilda",
+    "ru/uis2/marketplace/Talk-me/README.md",
+    "ru/uis2/marketplace/synergy_crm/README.md",
+    "ru/uis2/marketplace/s2/README.md",
+    "ru/uis2/marketplace/roistat/README.md",
+    "ru/uis2/marketplace/retailcrm/README.md",
+    "ru/uis2/marketplace/renovatio/README.md",
+    "ru/uis2/marketplace/profsalon/README2.md",
+    "ru/uis2/marketplace/profsalon/README.md",
+    "Без названия.canvas",
+    "Untitled.canvas"
+  ]
+}
