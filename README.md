@@ -42,11 +42,11 @@
 
 #### OnboardingLink
 
-| Props      | Default value | Description                                                        |
-|------------|---------------|--------------------------------------------------------------------|
-| to         | undefined     | Ссылка на файл                                                     |
-| isFullPath | false         | Если true, то в ссылку to нужно вставлять полноценный путь на файл |
-| children   | undefined     | Стилизованный текст                                                |
+| Props        | Default value | Description                                                        |
+|--------------|---------------|--------------------------------------------------------------------|
+| to           | undefined     | Ссылка на файл                                                     |
+| is_full_path | false         | Если true, то в ссылку to нужно вставлять полноценный путь на файл |
+| children     | undefined     | Стилизованный текст                                                |
 
 `<OnboardingLink to="/calltracking/step1.md">Текст ссылки</OnboardingLink>`
 
@@ -58,6 +58,37 @@ isFullPath
 Текст ссылки
 </OnboardingLink>
 ```
+
+#### button
+
+| Props        | Default value | Description                                                        |
+|--------------|---------------|--------------------------------------------------------------------|
+| b_type       | fill          | fill \| outline \| ghost                                           |
+| b_theme      | primary       | primary \| secondary \| error                                      |
+| b_to         | undefined     | Ссылка на файл                                                     |
+| b_href       | undefined     | Ссылка на внешнюю страницу                                         |
+| is_full_path | undefined     | Если true, то в ссылку to нужно вставлять полноценный путь на файл |
+| children     | undefined     | Текст                                                              |
+
+`<OnboardingLink to="/calltracking/step1.md">Текст ссылки</OnboardingLink>`
+
+```
+<button b_to="/analytics/summary_analytics.md" b_type="outline" b_theme="secondary">
+Текст ссылки
+</button>
+```
+
+#### img
+
+| Props     | Default value | Description                                |
+|-----------|---------------|--------------------------------------------|
+| no_margin | undefined     | Если true, то у картинки не будет отступов |
+| src       | undefined     | Путь до картинки                           |
+| width     | undefined     | Ширина                                     |
+| height    | undefined     | Высота                                     |
+
+`<img src="img.png" no_margin="true" />`
+
 
 ## Config
 
@@ -188,6 +219,24 @@ type DataStructure = {
 | Тип      | Описание                    |
 |----------|-----------------------------|
 | `string` | Относительный путь до файла |
+
+#### isDefaultOpen
+
+| Тип       | Описание                        |
+|-----------|---------------------------------|
+| `boolean` | Всегда открывать при совпадении |
+
+#### type
+
+| Тип                  | Дефолтное значение | Описание                   |
+|----------------------|--------------------|----------------------------|
+| `modal`  \| `drawer` | `drawer`           | Вид отображения онбординга |
+
+#### width
+
+| Тип                  | Описание |
+|----------------------|----------|
+| `string` \| `number` | Ширина   |
 
 ## Управление с помощью консоли
 *Внимание: Все работа в консоле производиться в режиме godmode*
