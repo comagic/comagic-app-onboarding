@@ -148,15 +148,14 @@ This section guides users on how to create a connected app within Salesforce. A 
 <details>
 <summary style="font-weight:bold;">Entity Creation Settings (Chats)</summary> <br />
 
-- **Most of the settings for creating entities in chats are similar to those in calls.**
+- **Most settings for creating entities in chats are similar to calls, with a few key differences:**
 <br /><br />
 
-- The main differences are:
-  - Entities will be created once for each chat opening (a message from a client or an employee wrote first) regardless of the number of messages before closing this chat.
+  - Entities are created once per chat session, triggered by either a client or employee first message, regardless of the number of messages exchanged before the chat closes.
   <br /><br />
-  - When a chat is opened by an incoming message from a client, an employee has not yet been assigned to it. Consequently, there is no option to attach an owner when creating an entities. The owner would be defaulted on creation by internal Salesforce settings. Owner could be assigned after the employee replies if the setting is enabled in the integration. 
+  - When a client sends the first message, no employee is assigned yet, so an owner can’t be set. The owner is assigned automatically by Salesforce, and can be updated after an employee replies, if enabled in the integration. 
   <br /><br />
-  - Sometimes the phone of the visitor could be hidden. In this case only Task could be created if the related option is enabled in the integration settings. If the option is disabled, nothing will be created in such cases.
+  - If the client’s phone number is hidden, only a Task can be created, provided the integration settings allow it. Otherwise, nothing is created.
 
 </details>
 <br />
