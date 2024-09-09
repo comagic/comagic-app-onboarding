@@ -68,7 +68,7 @@ These instructions are for users who wish to set up an integration between CallG
 </details>
 
 <details>
-<summary>Integration Settings</summary>
+<summary>Integration Settings (Calls)</summary>
 
 ### Matching Employee
 
@@ -92,7 +92,18 @@ _If the system identifies a Zoho CRM customer on an incoming call, the call is a
     - Select the field in the Zoho CRM object to which this information will be transferred.
      ![image](10.png)
 </details>
+<details>
+<summary>Integration Settings (Chats)</summary> <br />
 
+- Most settings for creating entities in chats are similar to calls, with a few key differences:
+<br /><br />
+
+  - Entities are created once per chat session, triggered by either a client or employee first message, regardless of the number of messages exchanged before the chat closes.
+  <br /><br />
+  - When a client sends the first message, no employee is assigned yet, so an owner can’t be set. The owner is assigned automatically by Zoho, and can be updated after an employee replies, if enabled in the integration. 
+  <br /><br />
+  - If the client’s phone number is hidden, entity names will contain information about this.
+  </details>
 ## Support
 
 If you encounter any issues or have further questions, please reach out to [CallGear Support](mailto:support@callgear.com) for assistance.
