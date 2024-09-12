@@ -68,9 +68,10 @@ isFullPath
 | b_to         | undefined     | Ссылка на файл                                                     |
 | b_href       | undefined     | Ссылка на внешнюю страницу                                         |
 | is_full_path | undefined     | Если true, то в ссылку to нужно вставлять полноценный путь на файл |
+| is_close_btn | undefined     | Если true, то кнопка закроет онбординг                             |
 | children     | undefined     | Текст                                                              |
 
-`<OnboardingLink to="/calltracking/step1.md">Текст ссылки</OnboardingLink>`
+`<button b_href="https://google.com">Текст ссылки</button>`
 
 ```
 <button b_to="/analytics/summary_analytics.md" b_type="outline" b_theme="secondary">
