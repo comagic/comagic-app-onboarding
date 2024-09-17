@@ -52,7 +52,7 @@ These instructions are for users who wish to set up an integration between CallG
 </details>
 <br />
 <details>
-<summary style="font-weight:bold;">Integration Settings</summary>
+<summary style="font-weight:bold;">Entity Creation Settings (Calls)</summary>
 
 ### Custom Matching Employee <br />
 
@@ -89,6 +89,21 @@ _Incoming calls are forwarded to the Contact Owner (personal manager) identified
 
 </details>
 
+<br />
+
+<details>
+<summary style="font-weight:bold;">Entity Creation Settings (Chats)</summary> <br />
+
+- **Most settings for creating entities in chats are similar to calls, with a few key differences:**
+<br /><br />
+
+  - Entities are created once per chat session, triggered by either a client or employee first message, regardless of the number of messages exchanged before the chat closes.
+  <br /><br />
+  - When a client sends the first message, no employee is assigned yet, so an owner can’t be set. The owner can be updated after an employee replies, if enabled in the integration. 
+  <br /><br />
+  - If the client’s phone number is hidden, only a Ticket can be created, provided the integration settings allow it. Otherwise, nothing is created.
+
+</details>
 <br />
 
 ---
