@@ -5,6 +5,17 @@
       "filePath": "/sites/main.md"
     },
     {
+      "id": "ct2_to_ct3",
+      "pattern": "/analytics/summary_analytics/:id",
+      "filePath": "/ct2_to_ct3/CallTracking.md",
+      "type": "modal",
+      "conditions": {
+        "parameter": "feature_flags",
+        "operator": "include",
+        "value": "enabled_transfer_ct_onboarding"
+      }
+    },
+    {
       "pattern": "/call_tracking/replacement-phone-blocks/:id",
       "filePath": "/call-tracking/replacement-phone-blocks/main.md"
     },
