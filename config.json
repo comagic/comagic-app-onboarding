@@ -81,11 +81,6 @@
       "filePath": "/call-tracking/numbers-new/main.md"
     },
     {
-      "pattern": "/tags/99999999",
-      "filePath": "/tags/tags.md",
-      "type": "modal"
-    },
-    {
       "pattern": "/tags/:id",
       "filePath": "/tags/tags.md"
     }
