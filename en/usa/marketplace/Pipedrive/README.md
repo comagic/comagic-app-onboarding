@@ -89,6 +89,7 @@ _If the system identifies a Pipedrive CRM customer on an incoming call, the call
    ![image](13.png)
 
 </details>
+<details>
 <summary>Integration Settings (Chats)</summary> <br />
 
 - Most settings for creating entities in chats are similar to calls, with a few key differences:
