@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/65c884d2-6d3d-443f-8130-ea9b657c3d9b)## Интеграция с EnvyBox
+## Интеграция с EnvyBox
  <br />
  
 Интеграция с EnvyBox позволяет передавать в наш сервис обращения с виджетов Envybox для дальнейшего анализа эффективности рекламы. <br />
