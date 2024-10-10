@@ -1,4 +1,4 @@
-<img src="StartImage.png" no_margin="true" />
+<img src="1ScreenImage.png" no_margin="true" />
 
 <br>
 <br>
@@ -13,4 +13,4 @@
 <br>
 <br>
 
-<button b_to="/demo/romi/step1.md" b_type="fill" b_theme="primary">Начать</button>
+<button b_to="/demo/romi/2Screen.md" b_type="fill" b_theme="primary">Начать</button>
