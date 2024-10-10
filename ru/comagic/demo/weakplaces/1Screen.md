@@ -1,3 +1,6 @@
+<br>
+<br>
+
 ## Найти узкие места в воронке привлечения и оптимизировать их
 
 <br>
@@ -13,4 +16,4 @@
 <br>
 <br>
 
-<button b_to="/calltracking/2Screen.md" b_type="fill" b_theme="primary">Начать</button>
+<button b_to="/demo/weakplaces/2Screen.md" b_type="fill" b_theme="primary">Начать</button>

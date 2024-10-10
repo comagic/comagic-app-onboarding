@@ -1,3 +1,6 @@
+<br>
+<br>
+
 ## Автоматическая разметка лидов
 
 <br>
@@ -17,5 +20,5 @@
 <br>
 <br>
 
-<button b_to="/calltracking/8Screen.md" b_type="fill" b_theme="primary">Продолжить</button>
-<button b_to="/calltracking/6Screen.md" b_type="outline" b_theme="secondary">Назад</button>
+<button b_to="/demo/cpl/8Screen.md" b_type="fill" b_theme="primary">Продолжить</button>
+<button b_to="/demo/cpl/6Screen.md" b_type="outline" b_theme="secondary">Назад</button>

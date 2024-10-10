@@ -1,3 +1,6 @@
+<br>
+<br>
+
 ## Данные по каждому этапу
 
 <br>
@@ -8,4 +11,4 @@ UIS - это система аналитики и управления комм�
 <br>
 <br>
 
-<button b_to="/calltracking/3Screen.md" b_type="fill" b_theme="primary">Продолжить</button>
+<button b_to="/demo/weakplaces/3Screen.md" b_type="fill" b_theme="primary">Продолжить</button>

@@ -1,3 +1,6 @@
+<br>
+<br>
+
 ## Что такое лиды?
 
 <br>
@@ -13,5 +16,5 @@
 <br>
 <br>
 
-<button b_to="/calltracking/4Screen.md" b_type="fill" b_theme="primary">Продолжить</button>
-<button b_to="/calltracking/2Screen.md" b_type="outline" b_theme="secondary">Назад</button>
+<button b_to="/demo/cpl/4Screen.md" b_type="fill" b_theme="primary">Продолжить</button>
+<button b_to="/demo/cpl/2Screen.md" b_type="outline" b_theme="secondary">Назад</button>
