@@ -6,7 +6,7 @@
 <br>
 <br>
 
-<img src="6ScreenImage.png" alt="" width="100%" height="180px"/>
+<img src="6ScreenImage.png" alt="" width="100%"/>
 
 <br>
 <br>

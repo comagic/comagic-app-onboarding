@@ -11,7 +11,7 @@
 <br>
 <br>
 
-<img src="ROMIImage.png" alt="" width="100%" height="180px"/>
+<img src="ROMIImage.png" alt="" width="100%"/>
 
 <br>
 <br>

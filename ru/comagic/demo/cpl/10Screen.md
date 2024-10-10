@@ -11,7 +11,7 @@
 <br>
 <br>
 
-<img src="10ScreenImage.png" alt="" width="100%" height="180px"/>
+<img src="10ScreenImage.png" alt="" width="100%"/>
 
 <br>
 <br>
