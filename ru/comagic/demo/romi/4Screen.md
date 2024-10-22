@@ -11,7 +11,7 @@
 <br>
 <br>
 
-<img src="ROMIImage.png" alt="" width="100%" height="180px"/>
+<img src="4ScreenImage" alt="" width="100%" />
 
 <br>
 <br>
@@ -21,5 +21,5 @@
 <br>
 <br>
 
-<button b_to="/demo/romi/step4.md" b_type="fill" b_theme="primary">Продолжить</button>
-<button b_to="/demo/romi/step2.md" b_type="outline" b_theme="secondary">Назад</button>
+<button b_to="/demo/romi/5Screen.md" b_type="fill" b_theme="primary">Продолжить</button>
+<button b_to="/demo/romi/3Screen.md" b_type="outline" b_theme="secondary">Назад</button>

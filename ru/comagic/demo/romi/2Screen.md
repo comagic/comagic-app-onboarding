@@ -11,4 +11,4 @@ UIS — это полноценная система аналитики рекл
 <br>
 <br>
 
-<button b_to="/demo/romi/step2.md" b_type="fill" b_theme="primary">Продолжить</button>
+<button b_to="/demo/romi/3Screen.md" b_type="fill" b_theme="primary">Продолжить</button>
