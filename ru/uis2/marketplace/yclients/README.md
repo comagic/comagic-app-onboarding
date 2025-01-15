@@ -82,8 +82,8 @@
    **Пример:** <br />
  
   <Alert backgroundColor="#c3e8d7">
-    
-   <a> class="yclick" href="https://n822081.yclients.com/" target="_blank">Открыть новую вкладку</a>
+   
+  <code>&lt;a class=&quot;yclick&quot; href=&quot;https://n822081.yclients.com/&quot; target=&quot;_blank&quot;&gt;Открыть новую вкладку&lt;/a&gt;</code>
 
    где "https://n822081.yclients.com/" - это домен страницы на которой стоит ваш виджет.
    
