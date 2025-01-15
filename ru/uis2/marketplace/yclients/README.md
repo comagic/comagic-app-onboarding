@@ -81,13 +81,13 @@
    
    **Пример:** <br />
  
-  <Alert backgroundColor="#c3e8d7">
+  
    
   <code>&lt;a class=&quot;yclick&quot; href=&quot;https://n822081.yclients.com/&quot; target=&quot;_blank&quot;&gt;Открыть новую вкладку&lt;/a&gt;</code> <br />
 
    где "https://n822081.yclients.com/" - это домен страницы на которой стоит ваш виджет.
    
-  </Alert>
+ 
   
   
   <br />
