@@ -30,7 +30,7 @@
 
 - возможность гибкой настройки создания клиентов по обращениям;
 - встройка нашего виджета РМО в кабинет Yclients при подключении соответствующего расширения;
-- мы гарантируем стабильную работу РМО в Google Chrome, если вы используете актуальную версию [расширения](https://chromewebstore.google.com/detail/uis/nfaolaoglkcldagbicdoppghadihjffl?hl=ru) и браузера. <br />
+- мы гарантируем стабильную работу РМО в Google Chrome, если вы используете актуальную версию **[расширения](https://chromewebstore.google.com/detail/uis/nfaolaoglkcldagbicdoppghadihjffl?hl=ru)** и браузера. <br />
 
 <br />
 <br />
