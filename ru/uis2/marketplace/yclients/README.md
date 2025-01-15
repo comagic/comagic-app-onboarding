@@ -83,11 +83,14 @@
  
   <Alert backgroundColor="#c3e8d7">
    
-  <code>&lt;a class=&quot;yclick&quot; href=&quot;https://n822081.yclients.com/&quot; target=&quot;_blank&quot;&gt;Открыть новую вкладку&lt;/a&gt;</code>
+  <code>&lt;a class=&quot;yclick&quot; href=&quot;https://n822081.yclients.com/&quot; target=&quot;_blank&quot;&gt;Открыть новую вкладку&lt;/a&gt;</code> <br />
 
    где "https://n822081.yclients.com/" - это домен страницы на которой стоит ваш виджет.
    
-  </Alert> <br />
+  </Alert>
+  
+  
+  <br />
 - **Тип трафика** — необходимо выбрать какую сущность использовать для обращений без сессии. По умолчанию выбран Источник. <br />
 - В зависимости от выбора выводится либо список рекламных кампаний из личного кабинета, либо список источников и сайтов. Необходимо указать какую **Рекламную кампанию/источник и сайт** используем в случае отсутствия сессии. <br />
 
