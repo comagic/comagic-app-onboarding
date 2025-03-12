@@ -41,27 +41,27 @@
     },
     {
       "pattern": "/summary_analytics/299743",
-      "filePath": "/ad_analytic/report/trafic_analyze.md"
+      "filePath": "/ad_analytic/trafic_analyze.md"
     },
     {
       "pattern": "/summary_analytics/:id#group_id=6&name=Анализ трафика",
-      "filePath": "/ad_analytic/report/trafic_analyze.md"
+      "filePath": "/ad_analytic/trafic_analyze.md"
     },
     {
       "pattern": "/summary_analytics/:id#group_id=6&name=Воронка маркетинга и продаж",
-      "filePath": "/ad_analytic/report/marketing_and_sales_funnel.md"
+      "filePath": "/ad_analytic/marketing_and_sales_funnel.md"
     },
     {
       "pattern": "/summary_analytics/:id#group_id=6&name=Анализ рекламы Яндекс Директ",
-      "filePath": "/ad_analytic/report/ad_yandex_direct.md"
+      "filePath": "/ad_analytic/ad_yandex_direct.md"
     },
     {
       "pattern": "/summary_analytics/:id#group_id=6&name=Анализ поведения и аудитории",
-      "filePath": "/ad_analytic/report/analyze_auditory.md"
+      "filePath": "/ad_analytic/analyze_auditory.md"
     },
     {
       "pattern": "/summary_analytics/:id#group_id=6&name=Анализ рекламы VK Реклама",
-      "filePath": "/ad_analytic/report/ad_yandex_vk_new.md"
+      "filePath": "/ad_analytic/ad_yandex_vk_new.md"
     },
     {
       "pattern": "/marketplace/custom/email_tracking/:id",
