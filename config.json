@@ -1,99 +1,99 @@
 {
-  "routes": [
-    {
-      "pattern": "/sites/:id",
-      "filePath": "/sites/main.md"
-    },
-    {
-      "id": "ct2_to_ct3",
-      "pattern": "/analytics/summary_analytics/:id",
-      "filePath": "/ct2_to_ct3/CallTracking.md",
-      "type": "modal",
-      "conditions": {
-        "parameter": "feature_flags",
-        "operator": "include",
-        "value": "enabled_transfer_ct_onboarding"
-      }
-    },
-    {
-      "pattern": "/call_tracking/replacement-phone-blocks/:id",
-      "filePath": "/call-tracking/replacement-phone-blocks/main.md"
-    },
-    {
-      "pattern": "/call_tracking/rules/:id#step1",
-      "filePath": "/call-tracking/rules/step1.md"
-    },
-    {
-      "pattern": "/call_tracking/rules/:id#step2_dynamic",
-      "filePath": "/call-tracking/rules/step2_dynamic.md"
-    },
-    {
-      "pattern": "/call_tracking/rules/:id#step3_dynamic",
-      "filePath": "/call-tracking/rules/step3_dynamic.md"
-    },
-    {
-      "pattern": "/call_tracking/rules/:id#step2_static_site_calls",
-      "filePath": "/call-tracking/rules/step2_static_site_calls.md"
-    },
-    {
-      "pattern": "/call_tracking/rules/:id#step2_static_external_area",
-      "filePath": "/call-tracking/rules/step2_static_external_area.md"
-    },
-    {
-      "pattern": "/summary_analytics/299743",
-      "filePath": "/ad_analytic/trafic_analyze.md"
-    },
-    {
-      "pattern": "/summary_analytics/:id#group_id=6&name=Анализ трафика",
-      "filePath": "/ad_analytic/report/trafic_analyze.md"
-    },
-    {
-      "pattern": "/summary_analytics/:id#group_id=6&name=Воронка маркетинга и продаж",
-      "filePath": "/ad_analytic/report/marketing_and_sales_funnel.md"
-    },
-    {
-      "pattern": "/summary_analytics/:id#group_id=6&name=Анализ рекламы Яндекс Директ",
-      "filePath": "/ad_analytic/report/ad_yandex_direct.md"
-    },
-    {
-      "pattern": "/summary_analytics/:id#group_id=6&name=Анализ поведения и аудитории",
-      "filePath": "/ad_analytic/report/analyze_auditory.md"
-    },
-    {
-      "pattern": "/summary_analytics/:id#group_id=6&name=Анализ рекламы VK Реклама",
-      "filePath": "/ad_analytic/report/ad_yandex_vk_new.md"
-    },
-    {
-      "pattern": "/marketplace/custom/email_tracking/:id",
-      "filePath": "/emaill-tracking/enable_email/enable_email.md"
-    },
-      {
-      "pattern": "/email_tracking/rules/:id",
-      "filePath": "/emaill-tracking/enable_email/rule.md"
-    },
-    {
-      "pattern": "/email_tracking/replacement-email-groups/:id",
-      "filePath": "/emaill-tracking/enable_email/block.md"
-    },
-     {
-      "pattern": "/call_tracking/sources/:id",
-      "filePath": "/call-tracking/sources/main.md"
-    },
-    {
-      "pattern": "/costs#manual",
-      "filePath": "/costs/main.md"
-    },
-    {
-      "pattern": "/costs#csv",
-      "filePath": "/costs/main.md"
-    },
-    {
-      "pattern": "/call_tracking/numbers-new/connecting",
-      "filePath": "/call-tracking/numbers-new/main.md"
-    },
-    {
-      "pattern": "/tags/:id",
-      "filePath": "/tags/tags.md"
-    }
-  ]
+    "routes": [
+        {
+            "pattern": "/sites/:id",
+            "filePath": "/sites/main.md"
+        },
+        {
+            "id": "ct2_to_ct3",
+            "pattern": "/analytics/reports/summary_analytics/:id",
+            "filePath": "/ct2_to_ct3/CallTracking.md",
+            "type": "modal",
+            "conditions": {
+                "parameter": "feature_flags",
+                "operator": "include",
+                "value": "enabled_transfer_ct_onboarding"
+            }
+        },
+        {
+            "pattern": "/call_tracking/replacement-phone-blocks/:id",
+            "filePath": "/call-tracking/replacement-phone-blocks/main.md"
+        },
+        {
+            "pattern": "/call_tracking/rules/:id#step1",
+            "filePath": "/call-tracking/rules/step1.md"
+        },
+        {
+            "pattern": "/call_tracking/rules/:id#step2_dynamic",
+            "filePath": "/call-tracking/rules/step2_dynamic.md"
+        },
+        {
+            "pattern": "/call_tracking/rules/:id#step3_dynamic",
+            "filePath": "/call-tracking/rules/step3_dynamic.md"
+        },
+        {
+            "pattern": "/call_tracking/rules/:id#step2_static_site_calls",
+            "filePath": "/call-tracking/rules/step2_static_site_calls.md"
+        },
+        {
+            "pattern": "/call_tracking/rules/:id#step2_static_external_area",
+            "filePath": "/call-tracking/rules/step2_static_external_area.md"
+        },
+        {
+            "pattern": "/reports/summary_analytics/299743",
+            "filePath": "/ad_analytic/trafic_analyze.md"
+        },
+        {
+            "pattern": "/reports/summary_analytics/:id#group_id=6&name=Анализ трафика",
+            "filePath": "/ad_analytic/report/trafic_analyze.md"
+        },
+        {
+            "pattern": "/reports/summary_analytics/:id#group_id=6&name=Воронка маркетинга и продаж",
+            "filePath": "/ad_analytic/report/marketing_and_sales_funnel.md"
+        },
+        {
+            "pattern": "/reports/summary_analytics/:id#group_id=6&name=Анализ рекламы Яндекс Директ",
+            "filePath": "/ad_analytic/report/ad_yandex_direct.md"
+        },
+        {
+            "pattern": "/reports/summary_analytics/:id#group_id=6&name=Анализ поведения и аудитории",
+            "filePath": "/ad_analytic/report/analyze_auditory.md"
+        },
+        {
+            "pattern": "/reports/summary_analytics/:id#group_id=6&name=Анализ рекламы VK Реклама",
+            "filePath": "/ad_analytic/report/ad_yandex_vk_new.md"
+        },
+        {
+            "pattern": "/marketplace/custom/email_tracking/:id",
+            "filePath": "/emaill-tracking/enable_email/enable_email.md"
+        },
+        {
+            "pattern": "/email_tracking/rules/:id",
+            "filePath": "/emaill-tracking/enable_email/rule.md"
+        },
+        {
+            "pattern": "/email_tracking/replacement-email-groups/:id",
+            "filePath": "/emaill-tracking/enable_email/block.md"
+        },
+        {
+            "pattern": "/call_tracking/sources/:id",
+            "filePath": "/call-tracking/sources/main.md"
+        },
+        {
+            "pattern": "/costs#manual",
+            "filePath": "/costs/main.md"
+        },
+        {
+            "pattern": "/costs#csv",
+            "filePath": "/costs/main.md"
+        },
+        {
+            "pattern": "/call_tracking/numbers-new/connecting",
+            "filePath": "/call-tracking/numbers-new/main.md"
+        },
+        {
+            "pattern": "/tags/:id",
+            "filePath": "/tags/tags.md"
+        }
+    ]
 }
