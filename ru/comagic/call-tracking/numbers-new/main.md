@@ -1,9 +1,9 @@
-<img src="ConnectingNumbers.png" no_margin="true" />
-
-<br>
-<br>
-
 ## Подключение номеров коллтрекинга
+
+<br>
+<br>
+
+<img src="ConnectingNumbers.png" alt="" width="100%" height="180px"/>
 
 <br>
 <br>
