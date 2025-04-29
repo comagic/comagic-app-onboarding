@@ -3,7 +3,7 @@
 <br>
 <br>
 
-<img src="ConnectingNumbers.png" alt="" width="100%" height="180px"/>
+<img src="ConnectingNumbers.svg" alt="" width="100%" height="180px"/>
 
 <br>
 <br>
