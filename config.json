@@ -94,6 +94,14 @@
         {
             "pattern": "/tags/:id",
             "filePath": "/tags/tags.md"
+        },
+        {
+            "pattern": "/call_tracking/crm_sources",
+            "filePath": "/call-tracking/crm-sources/main.md"
+        },
+        {
+            "pattern": "/call_tracking/crm_sources/:id",
+            "filePath": "/call-tracking/crm-sources/crm-source-settings/main.md"
         }
     ]
 }
