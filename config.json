@@ -65,7 +65,11 @@
         },
         {
             "pattern": "/marketplace/custom/email_tracking/:id",
-            "filePath": "/emaill-tracking/enable_email/enable_email.md"
+            "filePath": "/emaill-tracking/enable_email/inbox_connection.md"
+        },
+        {
+            "pattern": "/marketplace/custom/email_tracking",
+            "filePath": "/emaill-tracking/enable_email/inbox.md"
         },
         {
             "pattern": "/email_tracking/rules/:id",
