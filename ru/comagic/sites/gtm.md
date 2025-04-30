@@ -65,4 +65,4 @@
 
 <br>
 
-<OnboardingLink to="/sites.md">Вернуться к основному руководству</OnboardingLink>
+<OnboardingLink to="/sites/main.md">Вернуться к основному руководству</OnboardingLink>
