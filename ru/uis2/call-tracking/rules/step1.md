@@ -84,4 +84,4 @@
 <br>
 <br>
 
-<button b_to="/call-tracking/rules/step21.md" b_type="fill" b_theme="primary">Далее</button>
+<button b_to="/call-tracking//rules/step21.md" b_type="fill" b_theme="primary">Далее</button>
