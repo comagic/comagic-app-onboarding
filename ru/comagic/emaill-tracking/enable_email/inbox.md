@@ -3,7 +3,7 @@
 <br>
 <br>
 
-<img src="" alt="EmailtrackingInbox.svg" width="100%" height="180px"/>
+<img src="EmailtrackingInbox.svg" alt="" width="100%" height="180px"/>
 
 <br>
 <br>
