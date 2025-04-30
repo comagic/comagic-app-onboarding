@@ -96,6 +96,10 @@
             "filePath": "/call-tracking/numbers-new/main.md"
         },
         {
+            "pattern": "/tags",
+            "filePath": "/tags/tag_list.md"
+        },
+        {
             "pattern": "/tags/:id",
             "filePath": "/tags/tags.md"
         },
