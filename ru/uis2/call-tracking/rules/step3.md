@@ -1,4 +1,4 @@
-## Настройка правил коллтрекина - Шаг 2
+## Настройка правил коллтрекинга
 
 <br>
 <br>
@@ -94,4 +94,4 @@
 <br>
 <br>
 
-<button is_close_btn="true" b_type="fill" b_theme="primary">Все понятно!</button> <button b_to="/call-tracking/rules/step24.md" b_type="outline" b_theme="secondary">Назад</button> 
+<button b_to="/call-tracking/rules/step23.md" b_type="fill" b_theme="primary">Далее</button> <button b_to="/call-tracking/rules/step21.md" b_type="outline" b_theme="secondary">Назад</button> 

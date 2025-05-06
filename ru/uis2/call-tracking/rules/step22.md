@@ -60,4 +60,4 @@
 <br>
 <br>
 
-<OnboardingLink to="/call-tracking/rules/step21.md">Вернуться к основному руководству</OnboardingLink>
+<button b_to="/call-tracking/rules/step21.md" b_type="fill" b_theme="primary">К основному руководству</button>
