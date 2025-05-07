@@ -20,24 +20,8 @@
             "filePath": "/call-tracking/replacement-phone-blocks/main.md"
         },
         {
-            "pattern": "/call_tracking/rules/:id#step1",
+            "pattern": "/call_tracking/rules/:id",
             "filePath": "/call-tracking/rules/step1.md"
-        },
-        {
-            "pattern": "/call_tracking/rules/:id#step2_dynamic",
-            "filePath": "/call-tracking/rules/step2_dynamic.md"
-        },
-        {
-            "pattern": "/call_tracking/rules/:id#step3_dynamic",
-            "filePath": "/call-tracking/rules/step3_dynamic.md"
-        },
-        {
-            "pattern": "/call_tracking/rules/:id#step2_static_site_calls",
-            "filePath": "/call-tracking/rules/step2_static_site_calls.md"
-        },
-        {
-            "pattern": "/call_tracking/rules/:id#step2_static_external_area",
-            "filePath": "/call-tracking/rules/step2_static_external_area.md"
         },
         {
             "pattern": "/reports/summary_analytics/299743",
@@ -65,7 +49,11 @@
         },
         {
             "pattern": "/marketplace/custom/email_tracking/:id",
-            "filePath": "/emaill-tracking/enable_email/enable_email.md"
+            "filePath": "/emaill-tracking/enable_email/inbox_connection.md"
+        },
+        {
+            "pattern": "/marketplace/custom/email_tracking",
+            "filePath": "/emaill-tracking/enable_email/inbox.md"
         },
         {
             "pattern": "/email_tracking/rules/:id",
@@ -90,6 +78,10 @@
         {
             "pattern": "/call_tracking/numbers-new/connecting",
             "filePath": "/call-tracking/numbers-new/main.md"
+        },
+        {
+            "pattern": "/tags",
+            "filePath": "/tags/tag_list.md"
         },
         {
             "pattern": "/tags/:id",
