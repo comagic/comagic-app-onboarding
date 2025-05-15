@@ -113,3 +113,18 @@ ____
 ![04_mapping.png](04_mapping.png)
 
 </details>
+
+<details>
+  <summary style="font-weight:bold;"> Вкладка Открытые линии:чаты </summary> <br />
+
+
+
+</details>
+
+<details>
+  <summary style="font-weight:bold;"> Вкладка Открытые линии:сквозная аналитика </summary> <br />
+
+
+
+</details>
+
