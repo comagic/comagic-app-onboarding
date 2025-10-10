@@ -1,60 +1,53 @@
-## Bulk Messaging <br />
+# Mass Messaging <br />
 
-The solution enables mass message distribution to customers through the WABA channel. <br />
+The solution enables bulk messaging to customers via WABA channel or SMS. <br />
 
+## Integration Setup <br />
+1. **Campaign Name** - enter the campaign name for display in reports and on the integration connection page. <br />  
+![image](main.PNG)
+2. **Contact Method** - select the communication channel for the messaging campaign. <br />
+<details>
+  <summary style="font-weight:bold;"> Available Settings </summary> <br />
 
-## Integration Setup  <br /> 
+2.1 **WABA Channels:** <br />
 
-1. When configuring the integration, in the "Additional Integration Parameters" section, select your desired channel from the "Available Channels" dropdown (note: currently only WABA channel is supported for bulk messaging) and click "Save". This subscribes you to the channel for future campaign setup. <br />
-![image](Screen1.png)
+- When selecting WABA, an additional **WABA Channel** field will appear where you need to choose your WABA channel and the template that will be used in the campaign. <br />
+![image](waba.PNG)  
 <br />
-2. After successful saving, navigate to the "Settings" section and click "Add". This opens the campaign configuration panel where you should activate the "Active" toggle. <br />
 
-![image](Screen2.png)
+2.2 **SMS Channels:** <br />
+
+- When selecting SMS, an additional **SMS Channel** field will appear where you need to choose your SMS channel. <br />
+
+- A **Message Text** field will also appear where you need to specify the text to be sent in the campaign. This field supports variables.  
+**Important!** SMS channel has limitations on the number of characters per message. Up to 70 characters (Cyrillic) or 160 (Latin). If the text is longer, it will be sent as multiple messages (maximum: 335 Cyrillic characters or 765 Latin). The character counter below the template input field doesn't account for variable values - the final SMS length may differ. <br />
+
+</details> 
+
 <br />
-3. Configure the required settings: <br />
-![image](Screen3.png)
-<br />
-3.1. **Configuration Name** - your campaign identifier (used to track delivery status in reports). <br />
-3.2. **Request Type** - select CSV format from the dropdown, then upload the corresponding file. <br />
-   <mark>**Important!**  For successful campaign processing, ensure your file meets these requirements::</mark>
 
-   <mark>Must be CSV format with values in strict order: phone; datetime; variable1; variable2; etc. 
-   All values semicolon-separated (;)
-   Datetime format: YYYY-MM-DD HH:MM:SS (e.g., 2021-06-21 22:02:00)
-   Note: Datetime must match the sender's account timezone.
-   Variables are optional (include only when using variable templates)
+3. **Download Messaging Template File** - click the text to download the messaging template file to your computer. <br />
 
-   <mark>File example:</mark>
+4. **File Upload Field** - drag and drop your messaging file here. The file must be in CSV format, smaller than 10MB. The file should contain phone numbers (the solution reads any Russian number format) and, if necessary, variables. Required separator - semicolon. <br />
 
-   <mark>79207460022; 2021-06-21 22:02:00; customer; promotion <br />
-   <mark>79256760044; 2021-06-20 21:02:00; customer; offer <br />
-   <mark>79456760044; 2021-06-19 20:02:00; customer; gift <br />  </mark>
-   
-3.3. **Ignore Duplicates** - prevents sending to duplicate numbers. <br />
+5. **Ignore Duplicates** - this setting allows excluding duplicate numbers added in the file. <br />
 
-3.4. **Contact Method** - selects channel type for distribution <br />
+6. **Supplement Mailing List** - when this toggle is enabled, an additional file upload field will appear. This setting is necessary if your customer database is split into two files. <br />
 
-3.5 **Communication Channel** -chooses sending channel (for WABA, select your template). <br />
+7. **When Deleting File** - this setting allows specifying what to do with remaining mailing entries when deleting files in points 5 and 6. <br />
+![image](del.PNG)
+8. **Messages Per Minute** - set the maximum number of messages to process per minute. Maximum 300 messages per minute.<br />
 
-3.6. **Add** - creates a settings duplicate. <br />  
-4. After file upload and channel selection, click "Save" to trigger file validation. <br />
-Invalid entries will show in a popup with error details.
-Successful saving imports data and schedules campaigns according to CSV timestamps. <br />
-5. Click "Download Report" to export an Excel file with:
+9. **When to Send** - select the start time for the campaign. Available options: send immediately or at your chosen time. <br />
+![image](time.PNG)
+![image](date.PNG)
+10. **Campaign Management** - set of controls for managing the campaign. <br />
+ - **Stop Campaign** - allows pausing a running campaign. Available only when campaign is active. <br />
+ - **Start Campaign** - allows resuming a stopped campaign. Available when campaign is paused. <br />
+ - **Clear Campaign** - allows deleting loaded contacts, completely clearing the queue. Available for both stopped and running campaigns. <br />
+ - **Restart Campaign** - allows sending the campaign again to all files loaded in points 5 and 6. Available for completed campaigns. <br /> 
+11. **Report** - click the text to download the campaign report.
+![image](otchet.PNG)
+**Important!** In RMO, chats with messages from the campaign will only appear after receiving a customer response to a campaign message. <br />
 
-Recipient phone number
-
-Scheduled send datetime
-
-Campaign name
-
-Delivery status
-
-Template name (WABA channel) <br />
-![image](Screen4.png)
-<br />
-In CRM, campaign message threads appear only after customer reply. <br />
-6. **Verify Settings** - checks status of selected channels. Results appear in "Settings Status" section. <br />
-![image](Screen5.png)
 <br />
