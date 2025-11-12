@@ -61,7 +61,7 @@ _Incoming calls are forwarded to the Contact Owner (personal manager) identified
 - Automatic matching: After integration, employees are automatically mapped and calls are forwarded based on user's email.
 - UI matching: Manually match employees in the UI, and these mappings will take precedence over automatic matching.
 
-![image](hubspot_matching_employee.png)
+![image](hubspot_matching_employee.png) 
 
 <br />
 
