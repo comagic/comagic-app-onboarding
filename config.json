@@ -94,6 +94,10 @@
         {
             "pattern": "/call_tracking/crm_sources/:id",
             "filePath": "/call-tracking/crm-sources/crm-source-settings/main.md"
+        },
+        {
+            "pattern": "/pbx/melodies",
+            "filePath": "/melody/README.md"
         }
     ]
 }
