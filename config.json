@@ -101,7 +101,8 @@
         },
         {
             "pattern": "/account/virtual-phones",
-            "filePath": "/melody/README.md"
+            "filePath": "/melody/README.md",
+            "isDefaultOpen": true
         }
     ]
 }
