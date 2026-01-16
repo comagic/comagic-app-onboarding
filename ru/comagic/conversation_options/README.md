@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="image.svg" alt="" width="100%" height="260px"/>
+<img src="conversationOptions.svg" alt="" width="100%" height="260px"/>
 
 <br>
 
