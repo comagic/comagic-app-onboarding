@@ -98,6 +98,10 @@
         {
             "pattern": "/pbx/melodies",
             "filePath": "/melody/README.md"
+        },
+        {
+            "pattern": "/account/virtual-phones",
+            "filePath": "/melody/README.md"
         }
     ]
 }
