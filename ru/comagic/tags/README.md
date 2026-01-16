@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="tags.svg" alt="" width="100%" height="260px"/>
+<img src="tags_new.svg" alt="" width="100%" height="260px"/>
 
 <br>
 
