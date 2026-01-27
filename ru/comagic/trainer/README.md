@@ -2,7 +2,7 @@
 
 <br>
 
-
+<img src="trainer.svg" alt="" width="100%" height="260px"/>
 
 <br>
 
