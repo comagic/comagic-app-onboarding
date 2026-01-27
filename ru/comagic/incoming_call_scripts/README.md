@@ -31,7 +31,7 @@
 
 <button b_to="/incoming_call_scripts/forwarding.md" b_type="ghost" b_theme="primary">Переадресация</button>
 <br>
-<button b_to="надо указать здесь нужные страницы руководства" b_type="ghost" b_theme="primary">Инструменты</button>
+<button b_to="/incoming_call_scripts/tools.md" b_type="ghost" b_theme="primary">Инструменты</button>
 <br>
 <button b_to="/incoming_call_scripts/distribution.md" b_type="ghost" b_theme="primary">Распределение</button>
 
