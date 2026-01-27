@@ -24,7 +24,7 @@
 
 <br>
 
-<Alert backgroundColor="#ccc" borderRadius="12" padding>Включите отслеживание каталогов сайта, если хотите отслеживать только определенные разделы сайта. Например: site.ru/example или сайт.рф/москва.</Alert>
+<Alert type="info">Включите отслеживание каталогов сайта, если хотите отслеживать только определенные разделы сайта. Например: site.ru/example или сайт.рф/москва.</Alert>
 
 <br>
 
@@ -36,4 +36,4 @@
 
 <br>
 
-<Alert backgroundColor="#ccc" borderRadius="12" padding>Используете Google Tag Manager? Можно установить код через него. <OnboardingLink to="link">Открыть инструкцию</OnboardingLink></Alert>
+<Alert type="info">Используете Google Tag Manager? Можно установить код через него. <a href="/link">Открыть инструкцию</a></Alert>
