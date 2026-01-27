@@ -94,6 +94,10 @@
         {
             "pattern": "/call_tracking/crm_sources/:id",
             "filePath": "/call-tracking/crm-sources/crm-source-settings/main.md"
+        },
+        {
+            "pattern": "/pbx/sms-greeting",
+            "filePath": "/SMS_business_card/README.md"
         }
     ]
 }
