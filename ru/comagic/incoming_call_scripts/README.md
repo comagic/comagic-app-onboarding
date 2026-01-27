@@ -30,7 +30,9 @@
 <br>
 
 <button b_to="надо указать здесь нужные страницы руководства" b_type="ghost" b_theme="primary">Переадресация</button>
+<br>
 <button b_to="надо указать здесь нужные страницы руководства" b_type="ghost" b_theme="primary">Инструменты</button>
+<br>
 <button b_to="надо указать здесь нужные страницы руководства" b_type="ghost" b_theme="primary">Распределение</button>
 
 <br>
