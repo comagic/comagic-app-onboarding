@@ -3,7 +3,7 @@
 <br>
 <br>
 
-<img src="CRMSource.svg" alt="" width="100%" height="180px"/>
+<img src="CRMSource.svg" alt="" width="100%" height="260px"/>
 
 <br>
 <br>
