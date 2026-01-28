@@ -81,11 +81,11 @@
         },
         {
             "pattern": "/tags",
-            "filePath": "/tags/tag_list.md"
+            "filePath": "/tags/README.md"
         },
         {
             "pattern": "/tags/:id",
-            "filePath": "/tags/README.md"
+            "filePath": "/tags/tags.md"
         },
         {
             "pattern": "/call_tracking/crm_sources",
