@@ -2,7 +2,7 @@
 
 <br>
 <br>
-<img src="gtm.svg" alt="" width="100%" height="180px"/>
+<img src="gtm.svg" alt="" width="100%" height="260px"/>
 
 <br>
 <br>
