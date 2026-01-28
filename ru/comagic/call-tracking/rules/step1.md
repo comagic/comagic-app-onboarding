@@ -3,7 +3,7 @@
 <br>
 <br>
 
-<img src="step1.svg" alt="" width="100%" height="180px"/>
+<img src="step1.svg" alt="" width="100%" height="260px"/>
 
 <br>
 <br>
