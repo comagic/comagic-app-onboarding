@@ -144,11 +144,7 @@
             "filePath": "/lists_numbers/README.md"
         },
         {
-            "pattern": "/pbx/melodies/personal/create",
-            "filePath": "/melody/README.md"
-        },
-        {
-            "pattern": "/pbx/melodies/system/:name",
+            "pattern": "/pbx/melodies",
             "filePath": "/melody/README.md"
         },
         {
