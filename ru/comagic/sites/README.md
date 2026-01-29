@@ -41,3 +41,10 @@
 <br>
 
 <Alert type="info">Используете Google Tag Manager? Можно установить код через него. <a href="https://www.uiscom.ru/academiya/spravochnyj-centr/obshchie-nastroyki-v-lichnom-kabinete/podklyuchenie-sayta/">Открыть инструкцию</a></Alert>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
