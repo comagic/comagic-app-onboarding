@@ -128,6 +128,14 @@
             "filePath": "/employees_departments/README.md"
         },
         {
+            "pattern": "/account/staff/department/:id",
+            "filePath": "/employees_departments/README.md"
+        },
+        {
+            "pattern": "/account/staff/department/create",
+            "filePath": "/employees_departments/README.md"
+        },
+        {
             "pattern": "/pbx/caller-ids-list/create",
             "filePath": "/lists_numbers/README.md"
         },
