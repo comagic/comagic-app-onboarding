@@ -97,7 +97,7 @@
         },
         {
             "pattern": "/tags/:id",
-            "filePath": "/tags/tags.md"
+            "filePath": "/tags/README.md"
         },
         {
             "pattern": "/pbx/sms-apologies/create",
