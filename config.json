@@ -98,6 +98,78 @@
         {
             "pattern": "/tags/:id",
             "filePath": "/tags/tags.md"
+        },
+        {
+            "pattern": "/pbx/sms-apologies/create",
+            "filePath": "/SMS_apology/README.md"
+        },
+        {
+            "pattern": "/pbx/sms-apologies/:id",
+            "filePath": "/SMS_apology/README.md"
+        },
+        {
+            "pattern": "/pbx/sms-greeting/create",
+            "filePath": "/SMS_business_card/README.md"
+        }, 
+        {
+            "pattern": "/pbx/sms-greeting/:id",
+            "filePath": "/SMS_business_card/README.md"
+        },
+        {
+            "pattern": "/pbx/qos",
+            "filePath": "/client's_evaluation/README.md"
+        },
+        {
+            "pattern": "/pbx/talk_options",
+            "filePath": "/conversation_options/README.md"
+        },
+        {
+            "pattern": "/account/staff/employee-staff/:id",
+            "filePath": "/employees_departments/README.md"
+        },
+        {
+            "pattern": "/pbx/caller-ids-list/create",
+            "filePath": "/lists_numbers/README.md"
+        },
+        {
+            "pattern": "/pbx/caller-ids-list/:id",
+            "filePath": "/lists_numbers/README.md"
+        },
+        {
+            "pattern": "/pbx/melodies/personal/create",
+            "filePath": "/melody/README.md"
+        },
+        {
+            "pattern": "/pbx/melodies/system/:name",
+            "filePath": "/melody/README.md"
+        },
+        {
+            "pattern": "/pbx/record-settings",
+            "filePath": "/recording_conversations/README.md"
+        },
+        {
+            "pattern": "/common/schedule/create",
+            "filePath": "/schedule/README.md"
+        },
+        {
+            "pattern": "/common/schedule/:id",
+            "filePath": "/schedule/README.md"
+        },
+        {
+            "pattern": "/common/segment/create",
+            "filePath": "/segments/README.md"
+        },
+        {
+            "pattern": "/common/segment/:id",
+            "filePath": "/segments/README.md"
+        },
+        {
+            "pattern": "/pbx/coach/create",
+            "filePath": "/trainer/README.md"
+        },
+        {
+            "pattern": "/pbx/coach/:id",
+            "filePath": "/trainer/README.md"
         }
     ]
 }
