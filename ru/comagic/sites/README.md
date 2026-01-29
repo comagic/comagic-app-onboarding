@@ -40,7 +40,7 @@
 <br>
 <br>
 
-<Alert type="info">Используете Google Tag Manager? Можно установить код через него. <a href="https://www.uiscom.ru/academiya/spravochnyj-centr/obshchie-nastroyki-v-lichnom-kabinete/podklyuchenie-sayta/">Открыть инструкцию</a></Alert>
+<Alert type="info">Используете Google Tag Manager? Можно установить код через него. <OnboardingLink to="/sites/gtm.md">Открыть инструкцию</OnboardingLink> </Alert>
 
 <br>
 <br>
