@@ -1,10 +1,6 @@
 {
     "routes": [
         {
-            "pattern": "/sites",
-            "filePath": "/sites/README.md"
-        },
-        {
             "id": "ct2_to_ct3",
             "pattern": "/analytics/reports/summary_analytics/:id",
             "filePath": "/ct2_to_ct3/CallTracking.md",
@@ -80,20 +76,28 @@
             "filePath": "/call-tracking/numbers-new/main.md"
         },
         {
-            "pattern": "/tags",
-            "filePath": "/tags/README.md"
-        },
-        {
-            "pattern": "/tags/:id",
-            "filePath": "/tags/tags.md"
-        },
-        {
             "pattern": "/call_tracking/crm_sources",
             "filePath": "/call-tracking/crm-sources/main.md"
         },
         {
             "pattern": "/call_tracking/crm_sources/:id",
             "filePath": "/call-tracking/crm-sources/crm-source-settings/main.md"
+        },
+        {
+            "pattern": "/sites/create",
+            "filePath": "/sites/README.md"
+        },
+        {
+            "pattern": "/sites/:id",
+            "filePath": "/sites/README.md"
+        },
+         {
+            "pattern": "/tags/-1",
+            "filePath": "/tags/README.md"
+        },
+        {
+            "pattern": "/tags/:id",
+            "filePath": "/tags/tags.md"
         }
     ]
 }
