@@ -3,7 +3,7 @@
 <br>
 <br>
 
-<img src="call_transfer.svg" alt="" width="100%" height="260px"/>
+<img src="transfer.svg" alt="" width="100%" height="260px"/>
 
 <br>
 <br>
