@@ -3,7 +3,7 @@
 <br>
 <br>
 
-<img src=" numbers_pbx.svg" alt="" width="100%" height="260px"/>
+<img src="numbers_pbx.svg" alt="" width="100%" height="260px"/>
 
 <br>
 <br>
