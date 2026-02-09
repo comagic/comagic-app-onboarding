@@ -178,6 +178,46 @@
         {
             "pattern": "/pbx/transfer",
             "filePath": "/call_transfer/README.md"
+        },
+        {
+            "pattern": "/account/virtual-phones/create",
+            "filePath": "/numbers_pbx/README.md"
+        },
+        {
+            "pattern": "/pbx/employee-sip-line/:id",
+            "filePath": "/SIP_number/README.md"
+        },
+        {
+            "pattern": "/pbx/fmc/:id",
+            "filePath": "/SIM_card/README.md"
+        },
+        {
+            "pattern": "/pbx/external?tab=app",
+            "filePath": "/external_PBX/README.md"
+        },
+        {
+            "pattern": "/contacts/-1",
+            "filePath": "/contacts/README.md"
+        },
+        {
+            "pattern": "/contacts/:id",
+            "filePath": "/contacts/README.md"
+        },
+        {
+            "pattern": "/settings/softphone",
+            "filePath": "/operator_settings/README.md"
+        },
+        {
+            "pattern": "/account/financial-constraints/my/show",
+            "filePath": "/financial_restrictions/README.md"
+        },
+        {
+            "pattern": "/account/licenses",
+            "filePath": "/license_management/README.md"
+        },
+         {
+            "pattern": "/account/licenses",
+            "filePath": "/license_management/README.md"
         }
     ]
 }
