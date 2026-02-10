@@ -192,7 +192,7 @@
             "filePath": "/SIM_card/README.md"
         },
         {
-            "pattern": "/pbx/external?tab=app",
+            "pattern": "/pbx/external",
             "filePath": "/external_PBX/README.md"
         },
         {
