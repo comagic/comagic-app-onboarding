@@ -124,15 +124,15 @@
             "filePath": "/conversation_options/README.md"
         },
         {
-            "pattern": "/account/staff/employee-staff/:id",
+            "pattern": "/common/staff/employee-staff/:id",
             "filePath": "/employees_departments/README.md"
         },
         {
-            "pattern": "/account/staff/department/:id",
+            "pattern": "/common/staff/department/:id",
             "filePath": "/employees_departments/README.md"
         },
         {
-            "pattern": "/account/staff/department/create",
+            "pattern": "/common/staff/department/create",
             "filePath": "/employees_departments/README.md"
         },
         {
@@ -180,7 +180,7 @@
             "filePath": "/call_transfer/README.md"
         },
         {
-            "pattern": "/account/virtual-phones/create",
+            "pattern": "/b/account/virtual-phones/create",
             "filePath": "/numbers_pbx/README.md"
         },
         {
@@ -212,10 +212,6 @@
             "filePath": "/financial_restrictions/README.md"
         },
         {
-            "pattern": "/account/licenses",
-            "filePath": "/license_management/README.md"
-        },
-         {
             "pattern": "/account/licenses",
             "filePath": "/license_management/README.md"
         }

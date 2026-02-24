@@ -25,7 +25,7 @@
 <br>
 <br>
 
-<Alert type="info">Больше информации можно узнать в разделе <a href="/account/responsible-user">Конечные пользователи</a></Alert>
+<Alert type="info">Больше информации можно узнать в разделе <a href="/b/account/responsible-user">Конечные пользователи</a></Alert>
 
 <br>
 <br>

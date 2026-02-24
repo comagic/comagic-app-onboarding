@@ -25,7 +25,7 @@
 <br>
 <br>
 
-<Alert type="info">App ID указан в разделе <a href="/account/basic-information">Основная информация</a></Alert>
+<Alert type="info">App ID указан в разделе <a href="/b/account/basic-information">Основная информация</a></Alert>
 
 <br>
 <br>
