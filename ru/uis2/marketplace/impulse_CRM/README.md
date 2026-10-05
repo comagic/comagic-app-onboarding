@@ -68,8 +68,6 @@
 
 
 
-![image](impulse_1.jpg)
-
 <br />
 
 
@@ -130,7 +128,6 @@
 
 
 
-![image](impulse_2.jpg)
 
 <br />
 
@@ -146,7 +143,6 @@
 
 
 
-![image](impulse_3.jpg)
 
 <br />
 
@@ -160,7 +156,6 @@
 
 
 
-![image](impulse_4.jpg)
 
 <br />
 
@@ -180,7 +175,6 @@
 
 
 
-![image](impulse_5.jpg)
 
 <br />
 
@@ -192,7 +186,6 @@
 
 
 
-![image](impulse_6.jpg)
 
 <br />
 
@@ -206,7 +199,6 @@
 
 
 
-![image](impulse_7.jpg)
 
 <br />
 
@@ -216,7 +208,6 @@
 
 
 
-![image](impulse_8.jpg)
 
 <br />
 
@@ -225,8 +216,6 @@
 - Вставьте этот SIP-номер в настройки пользователя в impulseCRM. <br />
 
 
-
-![image](impulse_9.jpg)
 
 <br />
 
@@ -240,7 +229,6 @@
 
 
 
-![image](impulse_10.jpg)
 
 <br />
 
@@ -264,7 +252,6 @@
 
 
 
-![image](impulse_11.jpg)
 
 <br />
 
@@ -308,7 +295,6 @@
 
 
 
-![image](impulse_12.jpg)
 
 <br />
 
@@ -318,7 +304,6 @@
 
 
 
-![image](impulse_13.jpg)
 
 <br />
 
@@ -369,3 +354,4 @@
 <br />
 
 <br />
+
