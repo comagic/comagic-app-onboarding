@@ -104,6 +104,10 @@
             "filePath": "/SMS_apology/README.md"
         },
         {
+            "pattern": "/pbx/sms-apologies",
+            "filePath": "/SMS_apology/README.md"
+        },
+        {
             "pattern": "/pbx/sms-apologies/:id",
             "filePath": "/SMS_apology/README.md"
         },
