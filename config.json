@@ -112,6 +112,10 @@
             "filePath": "/SMS_business_card/README.md"
         }, 
         {
+            "pattern": "/pbx/sms-greeting",
+            "filePath": "/SMS_business_card/README.md"
+        }, 
+        {
             "pattern": "/pbx/sms-greeting/:id",
             "filePath": "/SMS_business_card/README.md"
         },
