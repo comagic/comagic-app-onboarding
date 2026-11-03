@@ -192,6 +192,10 @@
             "filePath": "/numbers_pbx/README.md"
         },
         {
+            "pattern": "/b/pbx/virtual-phones",
+            "filePath": "/numbers_pbx/numbers_pbx_list/README.md"
+        },
+        {
             "pattern": "/pbx/employee-sip-line/:id",
             "filePath": "/SIP_number/README.md"
         },
