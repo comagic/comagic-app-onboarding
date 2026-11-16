@@ -196,6 +196,14 @@
             "filePath": "/numbers_pbx/numbers_pbx_list/README.md"
         },
         {
+            "pattern": "/b/account/responsible-user",
+            "filePath": "/end_users/README.md"
+        },
+        {
+            "pattern": "/b/account/responsible-user/create",
+            "filePath": "/end_users/README.md"
+        },
+        {
             "pattern": "/pbx/employee-sip-line/:id",
             "filePath": "/SIP_number/README.md"
         },
