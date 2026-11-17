@@ -80,6 +80,18 @@
             "filePath": "/call-tracking/crm-sources/main.md"
         },
         {
+            "pattern": "/b/account/call-labels",
+            "filePath": "/call-labels/README.md"
+        },
+        {
+            "pattern": "/b/account/call-labels/:id",
+            "filePath": "/call-labels/README.md"
+        },
+        {
+            "pattern": "/b/account/call-labels/create",
+            "filePath": "/call-labels/README.md"
+        },
+        {
             "pattern": "/call_tracking/crm_sources/:id",
             "filePath": "/call-tracking/crm-sources/crm-source-settings/main.md"
         },
