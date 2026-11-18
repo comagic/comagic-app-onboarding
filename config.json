@@ -116,6 +116,10 @@
             "filePath": "/SMS_apology/README.md"
         },
         {
+            "pattern": "/account/two-factor-auth",
+            "filePath": "/two‑factor_authentication/README.md"
+        },
+        {
             "pattern": "/pbx/sms-apologies",
             "filePath": "/SMS_apology/README.md"
         },
