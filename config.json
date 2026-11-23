@@ -72,6 +72,10 @@
             "filePath": "/costs/main.md"
         },
         {
+            "pattern": "/account/auth-control",
+            "filePath": "/authorization_management/README.md"
+        },
+        {
             "pattern": "/call_tracking/numbers-new/connecting",
             "filePath": "/call-tracking/numbers-new/main.md"
         },
