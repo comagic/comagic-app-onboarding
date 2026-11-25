@@ -252,6 +252,18 @@
             "filePath": "/financial_restrictions/README.md"
         },
         {
+            "pattern": "/ns/integration-notification",
+            "filePath": "/HTTP_notification/README.md"
+        },
+        {
+            "pattern": "/ns/integration-notification/create",
+            "filePath": "/HTTP_notification/README.md"
+        },
+        {
+            "pattern": "/ns/integration-notification/:id",
+            "filePath": "/HTTP_notification/README.md"
+        },
+        {
             "pattern": "/account/licenses",
             "filePath": "/license_management/README.md"
         }
