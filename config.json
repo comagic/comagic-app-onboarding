@@ -100,6 +100,18 @@
             "filePath": "/call-tracking/crm-sources/crm-source-settings/main.md"
         },
         {
+            "pattern": "/account/roles",
+            "filePath": "/roles/README.md"
+        },
+        {
+            "pattern": "/account/roles/create",
+            "filePath": "/roles/README.md"
+        },
+        {
+            "pattern": "/account/roles/:id",
+            "filePath": "/roles/README.md"
+        },
+        {
             "pattern": "/sites/create",
             "filePath": "/sites/README.md"
         },
