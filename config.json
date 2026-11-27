@@ -100,6 +100,10 @@
             "filePath": "/call-tracking/crm-sources/crm-source-settings/main.md"
         },
         {
+            "pattern": "/common/user-notification",
+            "filePath": "/notification_settings/README.md"
+        },
+        {
             "pattern": "/account/roles",
             "filePath": "/roles/README.md"
         },
